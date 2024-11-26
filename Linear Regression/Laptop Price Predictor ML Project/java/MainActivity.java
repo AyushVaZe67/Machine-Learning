@@ -1,8 +1,8 @@
 package com.example.laptoppricepredictor;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.text.TextUtils;
-import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.Spinner;
@@ -18,8 +18,6 @@ import androidx.core.view.WindowInsetsCompat;
 
 import com.android.volley.Request;
 import com.android.volley.RequestQueue;
-import com.android.volley.Response;
-import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 
@@ -35,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
     private AppCompatButton btnPredict;
     TextView showPrice;
+    String predictedPrice;
     private EditText inputWeight;
     private Spinner spinnerCompany, spinnerTypeName, spinnerRam, spinnerTouchScreen, spinnerIps, spinnerScreenSize, spinnerScreenResolution, spinnerCpu, spinnerSSD, spinnerHDD, spinnerGpu, spinnerOs;
 
@@ -52,16 +51,12 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
 
-        // Initialize UI components
         initUI();
-
-        // Setup Spinners with data
         setupSpinners();
-
-        // Set button click listener
         btnPredict.setOnClickListener(v -> {
             checkValidation();
         });
+
     }
 
     private void checkValidation() {
@@ -71,10 +66,12 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(MainActivity.this, "Please enter Type!!!", Toast.LENGTH_SHORT).show();
         } else if (spinnerRam.getSelectedItem().equals("Select Ram")) {
             Toast.makeText(MainActivity.this, "Please select RAM!!!", Toast.LENGTH_SHORT).show();
-        } else if (TextUtils.isEmpty(inputWeight.getText().toString().trim())) {
+        } else if (TextUtils.isEmpty(inputWeight.getText().toString().trim()) ||
+                !inputWeight.getText().toString().trim().matches("^\\d*(\\.\\d{1})?$") ||
+                Double.parseDouble(inputWeight.getText().toString().trim()) <= 1 ||
+                Double.parseDouble(inputWeight.getText().toString().trim()) >= 4) {
             inputWeight.setError("Enter Valid Weight!!!");
             inputWeight.requestFocus();
-            //Toast.makeText(MainActivity.this, "Enter Valid Weight!!!", Toast.LENGTH_SHORT).show();
         } else if (spinnerTouchScreen.getSelectedItem().equals("TouchScreen")) {
             Toast.makeText(MainActivity.this, "Please specify if TouchScreen is available!!!", Toast.LENGTH_SHORT).show();
         } else if (spinnerIps.getSelectedItem().equals("IPS")) {
@@ -98,7 +95,26 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    // Initialize all UI components
+    private void goToNextPage() {
+        Intent intent = new Intent(MainActivity.this,DisplayPage.class);
+        intent.putExtra("company",spinnerCompany.getSelectedItem().toString());
+        intent.putExtra("company", spinnerCompany.getSelectedItem().toString());
+        intent.putExtra("typename", spinnerTypeName.getSelectedItem().toString());
+        intent.putExtra("ram", spinnerRam.getSelectedItem().toString().trim());
+        intent.putExtra("weight", inputWeight.getText().toString().trim());
+        intent.putExtra("touchscreen", spinnerTouchScreen.getSelectedItem().toString().trim());
+        intent.putExtra("ips", spinnerIps.getSelectedItem().toString().trim());
+        intent.putExtra("screen_size", spinnerScreenSize.getSelectedItem().toString().trim());
+        intent.putExtra("resolution", spinnerScreenResolution.getSelectedItem().toString().trim());
+        intent.putExtra("cpubrand", spinnerCpu.getSelectedItem().toString().trim());
+        intent.putExtra("ssd", spinnerSSD.getSelectedItem().toString().trim());
+        intent.putExtra("hdd", spinnerHDD.getSelectedItem().toString().trim());
+        intent.putExtra("gpubrand", spinnerGpu.getSelectedItem().toString().trim());
+        intent.putExtra("os", spinnerOs.getSelectedItem().toString().trim());
+        intent.putExtra("pp",predictedPrice);
+        startActivity(intent);
+    }
+
     private void initUI() {
         showPrice = findViewById(R.id.showPrice);
         btnPredict = findViewById(R.id.btnPredict);
@@ -117,23 +133,20 @@ public class MainActivity extends AppCompatActivity {
         spinnerOs = findViewById(R.id.spinnerOs);
     }
 
-    // Setup Spinners with predefined data
     private void setupSpinners() {
-        // Data for spinners
         List<String> companies = Arrays.asList("Select Brand","Dell", "Lenovo", "HP", "Asus", "Acer", "MSI", "Toshiba", "Apple", "Samsung", "Razer", "Mediacom", "Microsoft", "Xiaomi", "Vero", "Chuwi", "Google", "Fujitsu", "LG", "Huawei");
         List<String> types = Arrays.asList("Select Type","Notebook", "Gaming", "Ultrabook", "2 in 1 Convertible", "Workstation", "Netbook");
-        List<String> ramOptions = Arrays.asList("Select Ram","2", "4", "6", "8", "12", "16");
+        List<String> ramOptions = Arrays.asList("Select Ram","2", "4", "6", "8", "12", "16", "24","32");
         List<String> touchScreenOptions = Arrays.asList("TouchScreen","No", "Yes");
-        List<String> ipsOptions = Arrays.asList("IPS","No", "Yes");
+        List<String> ipsOptions = Arrays.asList("IPS", "No", "Yes");
         List<String> screenSizeOptions = Arrays.asList("ScreenSize","10.0", "11.0", "12.0", "13.0", "14.0", "15.0", "16.0", "17.0", "18.0");
         List<String> screenResolutionOptions = Arrays.asList("ScreenResolution","1920x1080", "1366x768", "1600x900", "3840x2160", "3200x1800", "2880x1800", "2560x1600", "2560x1440", "2304x1440");
         List<String> cpuOptions = Arrays.asList("Select CPU","Intel Core i3", "Intel Core i5", "Intel Core i7", "AMD Processor", "Other Intel Processor");
-        List<String> ssdOptions = Arrays.asList("Select SSD","0", "8", "128", "256", "512", "1024");
+        List<String> ssdOptions = Arrays.asList("Select SSD","0", "8", "128", "256", "512", "1024", "2048");
         List<String> hddOptions = Arrays.asList("Select HDD","0", "128", "256", "512", "1024", "2048");
         List<String> gpuOptions = Arrays.asList("Select GPU","Intel", "AMD", "Nvidia");
         List<String> osOptions = Arrays.asList("Select OS","Windows", "Others/No OS/Linux", "Mac");
 
-        // Assign adapters to Spinners
         setSpinnerAdapter(spinnerCompany, companies);
         setSpinnerAdapter(spinnerTypeName, types);
         setSpinnerAdapter(spinnerRam, ramOptions);
@@ -148,22 +161,19 @@ public class MainActivity extends AppCompatActivity {
         setSpinnerAdapter(spinnerOs, osOptions);
     }
 
-    // Helper method to set up an adapter for a spinner
     private void setSpinnerAdapter(Spinner spinner, List<String> data) {
         ArrayAdapter<String> adapter = new ArrayAdapter<>(this, R.layout.my_list_item, data);
         adapter.setDropDownViewResource(R.layout.my_list_item);
         spinner.setAdapter(adapter);
     }
 
-    // Make the API request to predict the laptop price
     private void predict() {
         StringRequest stringRequest = new StringRequest(Request.Method.POST, URL,
                 response -> {
                     try {
                         JSONObject jsonObject = new JSONObject(response);
-                        String predictedPrice = jsonObject.getString("Predicted Price");
-                        //Toast.makeText(MainActivity.this, "Predicted Price: " + predictedPrice, Toast.LENGTH_SHORT).show();
-                        showPrice.setText("Predicted Price: " + predictedPrice);
+                        predictedPrice = jsonObject.getString("Predicted Price");
+                        goToNextPage();
                     } catch (JSONException e) {
                         throw new RuntimeException(e);
                     }
