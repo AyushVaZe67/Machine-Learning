@@ -1,0 +1,1001 @@
+Animal,Symptom1,Symptom2,Symptom3,Disease
+Cat,Nasal Discharge,Loss Appetite,Runny Nose,Worm Infestation
+Horse,Restlessness,Lethargy,Colic,Equine Influenza
+Chicken,Restlessness,Sneezing,Dehydration,Avian Influenza
+Horse,Loss Appetite,Itching,Diarrhea,Equine Influenza
+Horse,Nasal Discharge,Weight Loss,Runny Nose,Colic
+Horse,Itching,Restlessness,Dehydration,Equine Influenza
+Dog,Loss Appetite,Limping,Runny Nose,Canine Distemper
+Cat,Dehydration,Sweating,Fever,Feline Herpesvirus
+Cow,Fever,Ruffled Feathers,Restlessness,Mastitis
+Dog,Restlessness,Sneezing,Ruffled Feathers,Mange
+Cow,Limping,Itching,Swollen Joints,Foot and Mouth
+Horse,Hair Loss,Itching,Vomiting,Colic
+Cow,Cough,Hair Loss,Dehydration,Foot and Mouth
+Horse,Loss Appetite,Vomiting,Cough,Colic
+Dog,Swollen Joints,Sneezing,Vomiting,Mange
+Cat,Loss Appetite,Diarrhea,Red Skin,Worm Infestation
+Chicken,Ruffled Feathers,Vomiting,Weight Loss,Coccidiosis
+Horse,Dehydration,Sweating,Ruffled Feathers,Tetanus
+Dog,Sneezing,Red Skin,Fever,Mange
+Horse,Weight Loss,Limping,Red Skin,Tetanus
+Cat,Dehydration,Limping,Fever,Worm Infestation
+Horse,Hair Loss,Fever,Vomiting,Colic
+Cow,Swollen Joints,Itching,Lethargy,Lumpy Skin Disease
+Horse,Runny Nose,Lethargy,Fever,Colic
+Chicken,Limping,Nasal Discharge,Restlessness,Coccidiosis
+Cow,Diarrhea,Limping,Fever,Lumpy Skin Disease
+Cat,Weight Loss,Red Skin,Swollen Joints,Rabies
+Cow,Swollen Joints,Loss Appetite,Sneezing,Mastitis
+Cow,Runny Nose,Lethargy,Dehydration,Foot and Mouth
+Horse,Runny Nose,Weight Loss,Hair Loss,Colic
+Horse,Fever,Itching,Sneezing,Tetanus
+Cow,Swollen Joints,Cough,Red Skin,Lumpy Skin Disease
+Chicken,Red Skin,Itching,Restlessness,Newcastle Disease
+Cat,Runny Nose,Weight Loss,Sweating,Rabies
+Dog,Lethargy,Restlessness,Vomiting,Rabies
+Cow,Swollen Joints,Colic,Dehydration,Foot and Mouth
+Horse,Sweating,Loss Appetite,Ruffled Feathers,Equine Influenza
+Chicken,Itching,Sneezing,Limping,Avian Influenza
+Horse,Red Skin,Ruffled Feathers,Weight Loss,Colic
+Cat,Limping,Restlessness,Nasal Discharge,Worm Infestation
+Dog,Dehydration,Nasal Discharge,Red Skin,Canine Distemper
+Cow,Swollen Joints,Red Skin,Weight Loss,Lumpy Skin Disease
+Dog,Weight Loss,Nasal Discharge,Swollen Joints,Mange
+Cow,Loss Appetite,Swollen Joints,Lethargy,Foot and Mouth
+Dog,Weight Loss,Colic,Loss Appetite,Mange
+Horse,Restlessness,Weight Loss,Dehydration,Equine Influenza
+Cat,Itching,Swollen Joints,Lethargy,Rabies
+Horse,Vomiting,Sneezing,Nasal Discharge,Colic
+Chicken,Ruffled Feathers,Weight Loss,Vomiting,Coccidiosis
+Chicken,Hair Loss,Diarrhea,Runny Nose,Avian Influenza
+Cat,Fever,Restlessness,Colic,Worm Infestation
+Cat,Cough,Colic,Sweating,Rabies
+Dog,Vomiting,Sweating,Runny Nose,Mange
+Horse,Fever,Loss Appetite,Lethargy,Tetanus
+Horse,Loss Appetite,Sweating,Swollen Joints,Tetanus
+Cat,Sweating,Weight Loss,Hair Loss,Rabies
+Cow,Hair Loss,Weight Loss,Ruffled Feathers,Lumpy Skin Disease
+Chicken,Hair Loss,Colic,Dehydration,Newcastle Disease
+Cat,Runny Nose,Restlessness,Sneezing,Rabies
+Dog,Itching,Cough,Ruffled Feathers,Canine Distemper
+Dog,Swollen Joints,Ruffled Feathers,Dehydration,Mange
+Dog,Itching,Runny Nose,Dehydration,Mange
+Cow,Weight Loss,Swollen Joints,Diarrhea,Lumpy Skin Disease
+Dog,Hair Loss,Red Skin,Swollen Joints,Canine Distemper
+Cat,Dehydration,Sneezing,Itching,Worm Infestation
+Chicken,Diarrhea,Red Skin,Swollen Joints,Coccidiosis
+Dog,Red Skin,Sweating,Itching,Rabies
+Cow,Runny Nose,Swollen Joints,Sweating,Foot and Mouth
+Dog,Restlessness,Dehydration,Vomiting,Mange
+Chicken,Colic,Cough,Nasal Discharge,Coccidiosis
+Dog,Sneezing,Hair Loss,Lethargy,Rabies
+Cow,Sneezing,Loss Appetite,Ruffled Feathers,Lumpy Skin Disease
+Chicken,Nasal Discharge,Hair Loss,Weight Loss,Avian Influenza
+Horse,Fever,Weight Loss,Nasal Discharge,Equine Influenza
+Chicken,Red Skin,Restlessness,Sweating,Newcastle Disease
+Cow,Fever,Limping,Lethargy,Lumpy Skin Disease
+Horse,Sneezing,Vomiting,Cough,Equine Influenza
+Horse,Nasal Discharge,Red Skin,Colic,Colic
+Cat,Colic,Red Skin,Limping,Feline Herpesvirus
+Cat,Dehydration,Lethargy,Colic,Worm Infestation
+Cat,Restlessness,Colic,Fever,Feline Herpesvirus
+Horse,Runny Nose,Sweating,Limping,Colic
+Cow,Red Skin,Ruffled Feathers,Restlessness,Lumpy Skin Disease
+Dog,Red Skin,Diarrhea,Nasal Discharge,Canine Distemper
+Horse,Diarrhea,Swollen Joints,Weight Loss,Tetanus
+Cow,Loss Appetite,Vomiting,Lethargy,Lumpy Skin Disease
+Cow,Limping,Loss Appetite,Lethargy,Mastitis
+Dog,Restlessness,Swollen Joints,Colic,Mange
+Horse,Itching,Vomiting,Cough,Tetanus
+Horse,Cough,Fever,Runny Nose,Equine Influenza
+Cat,Restlessness,Weight Loss,Loss Appetite,Feline Herpesvirus
+Cat,Runny Nose,Red Skin,Colic,Rabies
+Chicken,Loss Appetite,Red Skin,Weight Loss,Coccidiosis
+Horse,Restlessness,Hair Loss,Fever,Colic
+Cow,Red Skin,Vomiting,Weight Loss,Foot and Mouth
+Cat,Swollen Joints,Nasal Discharge,Red Skin,Rabies
+Dog,Sneezing,Vomiting,Loss Appetite,Canine Distemper
+Cow,Ruffled Feathers,Sneezing,Swollen Joints,Mastitis
+Dog,Fever,Cough,Lethargy,Rabies
+Cat,Limping,Lethargy,Nasal Discharge,Rabies
+Horse,Limping,Cough,Diarrhea,Equine Influenza
+Horse,Fever,Swollen Joints,Weight Loss,Tetanus
+Cow,Restlessness,Colic,Sneezing,Mastitis
+Horse,Nasal Discharge,Hair Loss,Sweating,Equine Influenza
+Horse,Weight Loss,Colic,Limping,Equine Influenza
+Horse,Limping,Dehydration,Weight Loss,Tetanus
+Horse,Sweating,Runny Nose,Restlessness,Tetanus
+Cow,Fever,Weight Loss,Loss Appetite,Foot and Mouth
+Chicken,Dehydration,Colic,Fever,Coccidiosis
+Chicken,Cough,Ruffled Feathers,Runny Nose,Newcastle Disease
+Dog,Diarrhea,Dehydration,Swollen Joints,Rabies
+Dog,Dehydration,Diarrhea,Colic,Canine Distemper
+Chicken,Weight Loss,Sweating,Restlessness,Avian Influenza
+Dog,Nasal Discharge,Dehydration,Ruffled Feathers,Canine Distemper
+Horse,Sneezing,Loss Appetite,Colic,Equine Influenza
+Dog,Colic,Lethargy,Dehydration,Rabies
+Dog,Nasal Discharge,Ruffled Feathers,Diarrhea,Mange
+Horse,Vomiting,Nasal Discharge,Cough,Equine Influenza
+Horse,Cough,Loss Appetite,Swollen Joints,Equine Influenza
+Cow,Cough,Colic,Lethargy,Lumpy Skin Disease
+Horse,Cough,Restlessness,Fever,Colic
+Chicken,Loss Appetite,Restlessness,Hair Loss,Newcastle Disease
+Horse,Cough,Lethargy,Loss Appetite,Equine Influenza
+Horse,Restlessness,Cough,Nasal Discharge,Equine Influenza
+Horse,Lethargy,Swollen Joints,Colic,Tetanus
+Cat,Red Skin,Colic,Dehydration,Rabies
+Horse,Fever,Runny Nose,Sneezing,Tetanus
+Cat,Dehydration,Runny Nose,Weight Loss,Worm Infestation
+Chicken,Swollen Joints,Itching,Hair Loss,Avian Influenza
+Dog,Cough,Ruffled Feathers,Weight Loss,Mange
+Cow,Limping,Itching,Lethargy,Mastitis
+Chicken,Hair Loss,Runny Nose,Ruffled Feathers,Avian Influenza
+Chicken,Sweating,Vomiting,Hair Loss,Avian Influenza
+Chicken,Loss Appetite,Weight Loss,Itching,Newcastle Disease
+Cat,Hair Loss,Weight Loss,Loss Appetite,Feline Herpesvirus
+Dog,Fever,Swollen Joints,Weight Loss,Mange
+Chicken,Sweating,Hair Loss,Nasal Discharge,Newcastle Disease
+Cat,Red Skin,Weight Loss,Dehydration,Feline Herpesvirus
+Chicken,Diarrhea,Hair Loss,Vomiting,Avian Influenza
+Horse,Diarrhea,Swollen Joints,Cough,Tetanus
+Cat,Runny Nose,Diarrhea,Weight Loss,Worm Infestation
+Chicken,Sneezing,Itching,Limping,Avian Influenza
+Cow,Red Skin,Sneezing,Loss Appetite,Mastitis
+Chicken,Colic,Loss Appetite,Nasal Discharge,Coccidiosis
+Dog,Itching,Red Skin,Loss Appetite,Mange
+Cat,Vomiting,Swollen Joints,Sneezing,Worm Infestation
+Cat,Loss Appetite,Sneezing,Colic,Feline Herpesvirus
+Horse,Sneezing,Dehydration,Hair Loss,Colic
+Horse,Itching,Sweating,Sneezing,Colic
+Horse,Loss Appetite,Colic,Itching,Tetanus
+Dog,Cough,Fever,Red Skin,Rabies
+Horse,Nasal Discharge,Lethargy,Sneezing,Tetanus
+Cow,Lethargy,Vomiting,Weight Loss,Foot and Mouth
+Horse,Itching,Colic,Cough,Equine Influenza
+Chicken,Limping,Nasal Discharge,Loss Appetite,Coccidiosis
+Horse,Loss Appetite,Vomiting,Lethargy,Colic
+Dog,Cough,Swollen Joints,Dehydration,Rabies
+Horse,Swollen Joints,Limping,Lethargy,Equine Influenza
+Dog,Diarrhea,Dehydration,Limping,Canine Distemper
+Chicken,Runny Nose,Diarrhea,Red Skin,Avian Influenza
+Cat,Sweating,Swollen Joints,Sneezing,Worm Infestation
+Cow,Limping,Ruffled Feathers,Vomiting,Mastitis
+Cat,Diarrhea,Ruffled Feathers,Sneezing,Worm Infestation
+Dog,Fever,Dehydration,Loss Appetite,Mange
+Cow,Loss Appetite,Restlessness,Cough,Foot and Mouth
+Chicken,Loss Appetite,Ruffled Feathers,Restlessness,Avian Influenza
+Cow,Ruffled Feathers,Nasal Discharge,Cough,Foot and Mouth
+Horse,Limping,Loss Appetite,Dehydration,Equine Influenza
+Cow,Colic,Vomiting,Cough,Mastitis
+Horse,Vomiting,Red Skin,Lethargy,Colic
+Horse,Red Skin,Limping,Cough,Colic
+Chicken,Itching,Nasal Discharge,Limping,Coccidiosis
+Dog,Nasal Discharge,Limping,Cough,Rabies
+Cow,Red Skin,Itching,Cough,Foot and Mouth
+Dog,Sweating,Dehydration,Hair Loss,Rabies
+Chicken,Sneezing,Sweating,Swollen Joints,Coccidiosis
+Dog,Restlessness,Vomiting,Fever,Rabies
+Horse,Fever,Runny Nose,Sweating,Tetanus
+Cow,Colic,Sneezing,Nasal Discharge,Mastitis
+Cow,Hair Loss,Swollen Joints,Limping,Mastitis
+Chicken,Red Skin,Lethargy,Itching,Avian Influenza
+Chicken,Itching,Fever,Restlessness,Avian Influenza
+Cow,Red Skin,Diarrhea,Lethargy,Lumpy Skin Disease
+Chicken,Loss Appetite,Vomiting,Lethargy,Newcastle Disease
+Horse,Cough,Diarrhea,Dehydration,Colic
+Chicken,Sneezing,Limping,Ruffled Feathers,Avian Influenza
+Horse,Swollen Joints,Red Skin,Fever,Tetanus
+Cow,Cough,Sweating,Lethargy,Lumpy Skin Disease
+Cow,Diarrhea,Runny Nose,Red Skin,Lumpy Skin Disease
+Dog,Sweating,Dehydration,Limping,Canine Distemper
+Cow,Red Skin,Weight Loss,Runny Nose,Lumpy Skin Disease
+Dog,Hair Loss,Colic,Itching,Mange
+Cat,Swollen Joints,Sweating,Ruffled Feathers,Rabies
+Cat,Cough,Vomiting,Red Skin,Worm Infestation
+Horse,Colic,Dehydration,Hair Loss,Equine Influenza
+Horse,Nasal Discharge,Diarrhea,Weight Loss,Equine Influenza
+Cat,Cough,Weight Loss,Restlessness,Rabies
+Cat,Sneezing,Red Skin,Fever,Rabies
+Dog,Red Skin,Colic,Vomiting,Canine Distemper
+Dog,Swollen Joints,Limping,Diarrhea,Rabies
+Dog,Lethargy,Dehydration,Loss Appetite,Rabies
+Cow,Nasal Discharge,Vomiting,Itching,Lumpy Skin Disease
+Cow,Nasal Discharge,Runny Nose,Sneezing,Lumpy Skin Disease
+Dog,Sneezing,Itching,Weight Loss,Mange
+Cat,Vomiting,Limping,Runny Nose,Feline Herpesvirus
+Chicken,Sneezing,Lethargy,Weight Loss,Coccidiosis
+Chicken,Sweating,Dehydration,Colic,Newcastle Disease
+Dog,Sweating,Limping,Swollen Joints,Rabies
+Dog,Hair Loss,Vomiting,Restlessness,Canine Distemper
+Horse,Vomiting,Cough,Itching,Tetanus
+Cow,Fever,Nasal Discharge,Diarrhea,Mastitis
+Chicken,Loss Appetite,Sneezing,Itching,Coccidiosis
+Cat,Diarrhea,Limping,Runny Nose,Rabies
+Horse,Restlessness,Vomiting,Sneezing,Equine Influenza
+Dog,Dehydration,Sneezing,Swollen Joints,Canine Distemper
+Dog,Colic,Red Skin,Cough,Rabies
+Horse,Lethargy,Restlessness,Ruffled Feathers,Colic
+Cat,Loss Appetite,Ruffled Feathers,Cough,Feline Herpesvirus
+Dog,Weight Loss,Fever,Hair Loss,Mange
+Chicken,Lethargy,Fever,Ruffled Feathers,Avian Influenza
+Cow,Colic,Fever,Lethargy,Foot and Mouth
+Chicken,Red Skin,Cough,Loss Appetite,Newcastle Disease
+Dog,Diarrhea,Hair Loss,Restlessness,Canine Distemper
+Dog,Dehydration,Lethargy,Hair Loss,Mange
+Horse,Colic,Diarrhea,Hair Loss,Equine Influenza
+Cat,Sneezing,Runny Nose,Colic,Rabies
+Cow,Limping,Runny Nose,Itching,Foot and Mouth
+Horse,Swollen Joints,Lethargy,Ruffled Feathers,Tetanus
+Horse,Fever,Dehydration,Lethargy,Colic
+Dog,Dehydration,Hair Loss,Lethargy,Canine Distemper
+Dog,Sneezing,Dehydration,Swollen Joints,Canine Distemper
+Cat,Red Skin,Diarrhea,Weight Loss,Feline Herpesvirus
+Horse,Red Skin,Ruffled Feathers,Dehydration,Tetanus
+Cat,Sweating,Cough,Lethargy,Worm Infestation
+Dog,Weight Loss,Cough,Vomiting,Rabies
+Cat,Hair Loss,Sweating,Swollen Joints,Worm Infestation
+Horse,Swollen Joints,Loss Appetite,Colic,Equine Influenza
+Cow,Runny Nose,Swollen Joints,Sneezing,Foot and Mouth
+Horse,Restlessness,Ruffled Feathers,Swollen Joints,Tetanus
+Horse,Weight Loss,Nasal Discharge,Diarrhea,Equine Influenza
+Dog,Cough,Colic,Runny Nose,Rabies
+Dog,Loss Appetite,Nasal Discharge,Weight Loss,Mange
+Chicken,Swollen Joints,Nasal Discharge,Itching,Newcastle Disease
+Cow,Itching,Vomiting,Lethargy,Lumpy Skin Disease
+Cow,Dehydration,Sweating,Ruffled Feathers,Mastitis
+Cow,Vomiting,Cough,Lethargy,Foot and Mouth
+Cow,Lethargy,Ruffled Feathers,Weight Loss,Lumpy Skin Disease
+Dog,Runny Nose,Red Skin,Vomiting,Rabies
+Cat,Nasal Discharge,Restlessness,Vomiting,Worm Infestation
+Chicken,Vomiting,Cough,Colic,Avian Influenza
+Dog,Sneezing,Nasal Discharge,Itching,Mange
+Horse,Sneezing,Dehydration,Nasal Discharge,Tetanus
+Horse,Fever,Nasal Discharge,Loss Appetite,Colic
+Cat,Nasal Discharge,Limping,Hair Loss,Rabies
+Horse,Sweating,Weight Loss,Sneezing,Tetanus
+Chicken,Ruffled Feathers,Red Skin,Sweating,Newcastle Disease
+Dog,Diarrhea,Sneezing,Restlessness,Rabies
+Chicken,Dehydration,Runny Nose,Cough,Coccidiosis
+Horse,Diarrhea,Restlessness,Itching,Tetanus
+Cow,Itching,Restlessness,Colic,Lumpy Skin Disease
+Horse,Diarrhea,Fever,Restlessness,Equine Influenza
+Cow,Restlessness,Red Skin,Hair Loss,Lumpy Skin Disease
+Dog,Loss Appetite,Weight Loss,Vomiting,Rabies
+Cow,Dehydration,Swollen Joints,Nasal Discharge,Lumpy Skin Disease
+Dog,Dehydration,Ruffled Feathers,Nasal Discharge,Mange
+Horse,Sneezing,Ruffled Feathers,Weight Loss,Colic
+Dog,Weight Loss,Lethargy,Limping,Mange
+Horse,Sneezing,Vomiting,Limping,Equine Influenza
+Cat,Fever,Lethargy,Red Skin,Worm Infestation
+Cow,Nasal Discharge,Sweating,Ruffled Feathers,Lumpy Skin Disease
+Chicken,Sneezing,Loss Appetite,Red Skin,Avian Influenza
+Cat,Swollen Joints,Nasal Discharge,Loss Appetite,Feline Herpesvirus
+Dog,Sweating,Diarrhea,Swollen Joints,Mange
+Cow,Sweating,Colic,Sneezing,Foot and Mouth
+Horse,Runny Nose,Limping,Vomiting,Colic
+Horse,Runny Nose,Sweating,Restlessness,Tetanus
+Cow,Swollen Joints,Itching,Nasal Discharge,Foot and Mouth
+Dog,Hair Loss,Lethargy,Diarrhea,Rabies
+Dog,Nasal Discharge,Lethargy,Swollen Joints,Canine Distemper
+Dog,Ruffled Feathers,Limping,Dehydration,Mange
+Dog,Diarrhea,Swollen Joints,Runny Nose,Rabies
+Horse,Sweating,Limping,Colic,Tetanus
+Dog,Colic,Swollen Joints,Hair Loss,Rabies
+Cow,Colic,Runny Nose,Itching,Foot and Mouth
+Chicken,Fever,Loss Appetite,Weight Loss,Coccidiosis
+Dog,Red Skin,Sweating,Lethargy,Rabies
+Dog,Restlessness,Fever,Cough,Mange
+Dog,Hair Loss,Nasal Discharge,Restlessness,Mange
+Chicken,Red Skin,Fever,Ruffled Feathers,Avian Influenza
+Horse,Swollen Joints,Lethargy,Nasal Discharge,Colic
+Horse,Nasal Discharge,Diarrhea,Dehydration,Tetanus
+Cow,Cough,Restlessness,Weight Loss,Mastitis
+Cow,Limping,Loss Appetite,Fever,Lumpy Skin Disease
+Horse,Limping,Ruffled Feathers,Lethargy,Colic
+Dog,Cough,Swollen Joints,Itching,Rabies
+Horse,Nasal Discharge,Sweating,Limping,Equine Influenza
+Cat,Sweating,Vomiting,Sneezing,Worm Infestation
+Dog,Itching,Diarrhea,Dehydration,Rabies
+Cat,Red Skin,Ruffled Feathers,Nasal Discharge,Feline Herpesvirus
+Dog,Hair Loss,Weight Loss,Runny Nose,Mange
+Cat,Sweating,Ruffled Feathers,Weight Loss,Worm Infestation
+Horse,Fever,Runny Nose,Itching,Equine Influenza
+Cow,Restlessness,Dehydration,Lethargy,Lumpy Skin Disease
+Cat,Lethargy,Sweating,Sneezing,Worm Infestation
+Cat,Swollen Joints,Weight Loss,Itching,Rabies
+Horse,Loss Appetite,Ruffled Feathers,Diarrhea,Equine Influenza
+Cow,Itching,Sweating,Limping,Lumpy Skin Disease
+Dog,Weight Loss,Red Skin,Vomiting,Rabies
+Cat,Vomiting,Restlessness,Dehydration,Worm Infestation
+Dog,Weight Loss,Dehydration,Red Skin,Mange
+Dog,Sneezing,Ruffled Feathers,Loss Appetite,Rabies
+Dog,Nasal Discharge,Fever,Vomiting,Rabies
+Chicken,Hair Loss,Red Skin,Cough,Avian Influenza
+Chicken,Diarrhea,Cough,Dehydration,Avian Influenza
+Horse,Runny Nose,Lethargy,Sneezing,Colic
+Horse,Hair Loss,Swollen Joints,Fever,Equine Influenza
+Cow,Cough,Weight Loss,Dehydration,Foot and Mouth
+Cow,Diarrhea,Runny Nose,Vomiting,Lumpy Skin Disease
+Chicken,Limping,Loss Appetite,Swollen Joints,Avian Influenza
+Cat,Loss Appetite,Colic,Hair Loss,Rabies
+Dog,Lethargy,Dehydration,Itching,Rabies
+Dog,Hair Loss,Red Skin,Weight Loss,Rabies
+Horse,Fever,Cough,Colic,Equine Influenza
+Cat,Itching,Runny Nose,Limping,Worm Infestation
+Chicken,Red Skin,Ruffled Feathers,Sweating,Avian Influenza
+Dog,Limping,Loss Appetite,Sneezing,Canine Distemper
+Cat,Loss Appetite,Diarrhea,Colic,Feline Herpesvirus
+Cow,Dehydration,Weight Loss,Cough,Mastitis
+Horse,Lethargy,Fever,Itching,Colic
+Dog,Weight Loss,Fever,Restlessness,Mange
+Dog,Colic,Hair Loss,Weight Loss,Canine Distemper
+Cow,Swollen Joints,Red Skin,Fever,Foot and Mouth
+Dog,Diarrhea,Fever,Loss Appetite,Rabies
+Horse,Hair Loss,Sneezing,Cough,Tetanus
+Horse,Sneezing,Lethargy,Red Skin,Equine Influenza
+Cow,Hair Loss,Runny Nose,Ruffled Feathers,Lumpy Skin Disease
+Horse,Cough,Runny Nose,Weight Loss,Tetanus
+Cat,Itching,Runny Nose,Ruffled Feathers,Worm Infestation
+Cat,Colic,Hair Loss,Weight Loss,Worm Infestation
+Cat,Nasal Discharge,Sweating,Red Skin,Rabies
+Dog,Weight Loss,Sneezing,Diarrhea,Canine Distemper
+Cow,Fever,Loss Appetite,Weight Loss,Mastitis
+Cow,Red Skin,Loss Appetite,Vomiting,Mastitis
+Cat,Lethargy,Red Skin,Diarrhea,Rabies
+Chicken,Sneezing,Hair Loss,Fever,Newcastle Disease
+Cat,Cough,Restlessness,Loss Appetite,Rabies
+Cow,Red Skin,Fever,Diarrhea,Foot and Mouth
+Horse,Lethargy,Ruffled Feathers,Red Skin,Colic
+Chicken,Loss Appetite,Sweating,Swollen Joints,Newcastle Disease
+Chicken,Hair Loss,Runny Nose,Itching,Coccidiosis
+Horse,Sneezing,Runny Nose,Itching,Equine Influenza
+Cow,Sneezing,Runny Nose,Colic,Lumpy Skin Disease
+Cow,Vomiting,Nasal Discharge,Cough,Foot and Mouth
+Cat,Diarrhea,Red Skin,Hair Loss,Worm Infestation
+Cat,Loss Appetite,Dehydration,Runny Nose,Feline Herpesvirus
+Cow,Swollen Joints,Dehydration,Lethargy,Foot and Mouth
+Chicken,Hair Loss,Diarrhea,Ruffled Feathers,Avian Influenza
+Dog,Sneezing,Runny Nose,Swollen Joints,Canine Distemper
+Chicken,Diarrhea,Swollen Joints,Ruffled Feathers,Newcastle Disease
+Cow,Dehydration,Colic,Sweating,Foot and Mouth
+Dog,Cough,Sweating,Red Skin,Mange
+Cat,Loss Appetite,Cough,Hair Loss,Worm Infestation
+Horse,Restlessness,Colic,Swollen Joints,Tetanus
+Dog,Runny Nose,Itching,Colic,Mange
+Cow,Red Skin,Limping,Hair Loss,Lumpy Skin Disease
+Cow,Nasal Discharge,Red Skin,Colic,Lumpy Skin Disease
+Horse,Weight Loss,Ruffled Feathers,Vomiting,Colic
+Horse,Restlessness,Ruffled Feathers,Sweating,Colic
+Dog,Restlessness,Swollen Joints,Sweating,Mange
+Chicken,Restlessness,Vomiting,Nasal Discharge,Newcastle Disease
+Cat,Swollen Joints,Weight Loss,Limping,Rabies
+Horse,Itching,Swollen Joints,Red Skin,Colic
+Cat,Colic,Vomiting,Diarrhea,Rabies
+Cow,Red Skin,Weight Loss,Hair Loss,Foot and Mouth
+Horse,Lethargy,Cough,Ruffled Feathers,Tetanus
+Dog,Loss Appetite,Limping,Itching,Mange
+Cat,Vomiting,Colic,Runny Nose,Rabies
+Cat,Hair Loss,Nasal Discharge,Diarrhea,Worm Infestation
+Chicken,Limping,Ruffled Feathers,Itching,Newcastle Disease
+Chicken,Sweating,Restlessness,Colic,Newcastle Disease
+Horse,Loss Appetite,Runny Nose,Weight Loss,Equine Influenza
+Horse,Ruffled Feathers,Diarrhea,Hair Loss,Colic
+Horse,Fever,Loss Appetite,Ruffled Feathers,Tetanus
+Cat,Weight Loss,Red Skin,Limping,Feline Herpesvirus
+Dog,Runny Nose,Dehydration,Hair Loss,Mange
+Dog,Lethargy,Limping,Loss Appetite,Mange
+Horse,Vomiting,Colic,Red Skin,Colic
+Cow,Itching,Limping,Vomiting,Lumpy Skin Disease
+Dog,Weight Loss,Sneezing,Dehydration,Rabies
+Cat,Diarrhea,Lethargy,Loss Appetite,Rabies
+Dog,Restlessness,Weight Loss,Hair Loss,Canine Distemper
+Horse,Vomiting,Red Skin,Lethargy,Equine Influenza
+Cow,Sweating,Sneezing,Restlessness,Lumpy Skin Disease
+Dog,Swollen Joints,Weight Loss,Cough,Mange
+Dog,Loss Appetite,Red Skin,Sweating,Canine Distemper
+Chicken,Loss Appetite,Ruffled Feathers,Nasal Discharge,Newcastle Disease
+Chicken,Sweating,Diarrhea,Loss Appetite,Coccidiosis
+Cow,Cough,Runny Nose,Diarrhea,Foot and Mouth
+Cat,Dehydration,Ruffled Feathers,Nasal Discharge,Rabies
+Cow,Diarrhea,Nasal Discharge,Hair Loss,Mastitis
+Cat,Red Skin,Hair Loss,Dehydration,Feline Herpesvirus
+Cow,Limping,Nasal Discharge,Runny Nose,Mastitis
+Dog,Itching,Sweating,Dehydration,Canine Distemper
+Dog,Diarrhea,Loss Appetite,Colic,Mange
+Dog,Sneezing,Cough,Dehydration,Mange
+Chicken,Restlessness,Red Skin,Limping,Avian Influenza
+Cow,Dehydration,Loss Appetite,Weight Loss,Lumpy Skin Disease
+Chicken,Diarrhea,Weight Loss,Nasal Discharge,Newcastle Disease
+Chicken,Swollen Joints,Itching,Fever,Newcastle Disease
+Horse,Restlessness,Weight Loss,Colic,Colic
+Dog,Loss Appetite,Cough,Swollen Joints,Mange
+Dog,Swollen Joints,Sneezing,Vomiting,Rabies
+Cow,Vomiting,Loss Appetite,Ruffled Feathers,Lumpy Skin Disease
+Cat,Lethargy,Limping,Swollen Joints,Worm Infestation
+Chicken,Sweating,Itching,Runny Nose,Coccidiosis
+Chicken,Sneezing,Hair Loss,Ruffled Feathers,Avian Influenza
+Chicken,Colic,Lethargy,Nasal Discharge,Coccidiosis
+Horse,Cough,Dehydration,Fever,Colic
+Horse,Swollen Joints,Hair Loss,Cough,Tetanus
+Chicken,Loss Appetite,Restlessness,Colic,Coccidiosis
+Chicken,Nasal Discharge,Runny Nose,Cough,Newcastle Disease
+Cow,Runny Nose,Itching,Restlessness,Lumpy Skin Disease
+Chicken,Restlessness,Hair Loss,Limping,Avian Influenza
+Cow,Weight Loss,Loss Appetite,Dehydration,Mastitis
+Cow,Fever,Red Skin,Colic,Foot and Mouth
+Chicken,Fever,Diarrhea,Ruffled Feathers,Coccidiosis
+Dog,Loss Appetite,Nasal Discharge,Hair Loss,Mange
+Cat,Loss Appetite,Colic,Runny Nose,Worm Infestation
+Dog,Limping,Ruffled Feathers,Cough,Canine Distemper
+Horse,Runny Nose,Sweating,Diarrhea,Equine Influenza
+Cow,Vomiting,Dehydration,Hair Loss,Foot and Mouth
+Cat,Colic,Cough,Restlessness,Rabies
+Cow,Loss Appetite,Dehydration,Weight Loss,Lumpy Skin Disease
+Cat,Cough,Nasal Discharge,Swollen Joints,Rabies
+Chicken,Sneezing,Colic,Hair Loss,Coccidiosis
+Cat,Ruffled Feathers,Dehydration,Hair Loss,Rabies
+Dog,Sweating,Restlessness,Ruffled Feathers,Mange
+Chicken,Limping,Swollen Joints,Loss Appetite,Coccidiosis
+Cat,Red Skin,Loss Appetite,Cough,Worm Infestation
+Horse,Sweating,Fever,Red Skin,Equine Influenza
+Cat,Weight Loss,Red Skin,Nasal Discharge,Rabies
+Cat,Red Skin,Sweating,Sneezing,Feline Herpesvirus
+Horse,Fever,Limping,Colic,Tetanus
+Horse,Lethargy,Restlessness,Hair Loss,Colic
+Chicken,Colic,Sneezing,Restlessness,Coccidiosis
+Cat,Fever,Loss Appetite,Diarrhea,Feline Herpesvirus
+Dog,Swollen Joints,Restlessness,Cough,Mange
+Cow,Nasal Discharge,Swollen Joints,Diarrhea,Foot and Mouth
+Cat,Weight Loss,Fever,Dehydration,Feline Herpesvirus
+Dog,Hair Loss,Fever,Diarrhea,Rabies
+Horse,Ruffled Feathers,Lethargy,Colic,Tetanus
+Dog,Limping,Vomiting,Dehydration,Rabies
+Horse,Ruffled Feathers,Swollen Joints,Sweating,Colic
+Cat,Nasal Discharge,Weight Loss,Diarrhea,Rabies
+Horse,Hair Loss,Ruffled Feathers,Sweating,Equine Influenza
+Dog,Vomiting,Sneezing,Restlessness,Mange
+Chicken,Nasal Discharge,Sneezing,Weight Loss,Coccidiosis
+Chicken,Sweating,Cough,Itching,Newcastle Disease
+Dog,Limping,Fever,Vomiting,Mange
+Cat,Sweating,Dehydration,Restlessness,Rabies
+Horse,Red Skin,Vomiting,Dehydration,Colic
+Cat,Loss Appetite,Diarrhea,Weight Loss,Worm Infestation
+Chicken,Nasal Discharge,Vomiting,Runny Nose,Coccidiosis
+Chicken,Hair Loss,Swollen Joints,Colic,Coccidiosis
+Horse,Diarrhea,Lethargy,Red Skin,Equine Influenza
+Cow,Vomiting,Ruffled Feathers,Nasal Discharge,Foot and Mouth
+Cow,Sneezing,Restlessness,Itching,Mastitis
+Horse,Cough,Dehydration,Diarrhea,Colic
+Cow,Weight Loss,Cough,Nasal Discharge,Mastitis
+Cow,Itching,Red Skin,Nasal Discharge,Foot and Mouth
+Chicken,Dehydration,Fever,Sneezing,Newcastle Disease
+Chicken,Weight Loss,Runny Nose,Colic,Coccidiosis
+Chicken,Lethargy,Limping,Loss Appetite,Avian Influenza
+Cat,Cough,Sneezing,Itching,Rabies
+Cat,Itching,Diarrhea,Swollen Joints,Rabies
+Dog,Lethargy,Loss Appetite,Dehydration,Canine Distemper
+Cow,Weight Loss,Sweating,Colic,Mastitis
+Cat,Diarrhea,Red Skin,Restlessness,Rabies
+Cat,Sneezing,Runny Nose,Loss Appetite,Feline Herpesvirus
+Cow,Swollen Joints,Diarrhea,Ruffled Feathers,Foot and Mouth
+Dog,Limping,Vomiting,Hair Loss,Rabies
+Cow,Dehydration,Restlessness,Diarrhea,Mastitis
+Chicken,Hair Loss,Vomiting,Fever,Newcastle Disease
+Horse,Hair Loss,Ruffled Feathers,Restlessness,Tetanus
+Horse,Sneezing,Loss Appetite,Sweating,Tetanus
+Dog,Swollen Joints,Dehydration,Itching,Canine Distemper
+Dog,Weight Loss,Swollen Joints,Red Skin,Canine Distemper
+Chicken,Hair Loss,Fever,Vomiting,Coccidiosis
+Cow,Lethargy,Diarrhea,Loss Appetite,Lumpy Skin Disease
+Horse,Itching,Colic,Weight Loss,Colic
+Horse,Vomiting,Swollen Joints,Lethargy,Tetanus
+Dog,Nasal Discharge,Dehydration,Ruffled Feathers,Rabies
+Dog,Vomiting,Restlessness,Itching,Canine Distemper
+Dog,Swollen Joints,Weight Loss,Fever,Canine Distemper
+Dog,Hair Loss,Nasal Discharge,Restlessness,Canine Distemper
+Cat,Colic,Lethargy,Itching,Feline Herpesvirus
+Dog,Diarrhea,Colic,Red Skin,Rabies
+Cow,Hair Loss,Limping,Cough,Mastitis
+Chicken,Swollen Joints,Limping,Lethargy,Coccidiosis
+Chicken,Fever,Red Skin,Cough,Coccidiosis
+Chicken,Red Skin,Fever,Lethargy,Avian Influenza
+Horse,Sweating,Cough,Lethargy,Equine Influenza
+Dog,Weight Loss,Sneezing,Itching,Rabies
+Horse,Runny Nose,Fever,Lethargy,Equine Influenza
+Chicken,Cough,Diarrhea,Restlessness,Avian Influenza
+Dog,Ruffled Feathers,Vomiting,Sneezing,Mange
+Cow,Lethargy,Loss Appetite,Colic,Foot and Mouth
+Dog,Nasal Discharge,Diarrhea,Ruffled Feathers,Canine Distemper
+Cat,Lethargy,Limping,Loss Appetite,Worm Infestation
+Horse,Nasal Discharge,Diarrhea,Sweating,Colic
+Horse,Nasal Discharge,Restlessness,Vomiting,Tetanus
+Cat,Diarrhea,Colic,Weight Loss,Rabies
+Horse,Ruffled Feathers,Sneezing,Hair Loss,Colic
+Cat,Nasal Discharge,Dehydration,Swollen Joints,Feline Herpesvirus
+Cat,Hair Loss,Colic,Cough,Rabies
+Cow,Itching,Fever,Sneezing,Lumpy Skin Disease
+Cow,Cough,Sneezing,Sweating,Lumpy Skin Disease
+Chicken,Colic,Swollen Joints,Cough,Avian Influenza
+Horse,Vomiting,Cough,Colic,Equine Influenza
+Cow,Hair Loss,Vomiting,Runny Nose,Foot and Mouth
+Cow,Limping,Hair Loss,Sneezing,Lumpy Skin Disease
+Horse,Red Skin,Hair Loss,Lethargy,Equine Influenza
+Chicken,Runny Nose,Itching,Weight Loss,Newcastle Disease
+Horse,Itching,Swollen Joints,Colic,Equine Influenza
+Chicken,Lethargy,Sneezing,Fever,Coccidiosis
+Dog,Fever,Loss Appetite,Vomiting,Rabies
+Cow,Hair Loss,Sneezing,Loss Appetite,Lumpy Skin Disease
+Cat,Hair Loss,Limping,Fever,Worm Infestation
+Chicken,Sneezing,Colic,Diarrhea,Newcastle Disease
+Dog,Dehydration,Itching,Cough,Rabies
+Cat,Sneezing,Fever,Loss Appetite,Rabies
+Cow,Vomiting,Loss Appetite,Ruffled Feathers,Foot and Mouth
+Horse,Red Skin,Ruffled Feathers,Itching,Equine Influenza
+Dog,Nasal Discharge,Itching,Cough,Rabies
+Cow,Restlessness,Swollen Joints,Ruffled Feathers,Foot and Mouth
+Chicken,Vomiting,Dehydration,Lethargy,Newcastle Disease
+Dog,Runny Nose,Sneezing,Colic,Rabies
+Chicken,Nasal Discharge,Dehydration,Hair Loss,Coccidiosis
+Cow,Restlessness,Fever,Diarrhea,Lumpy Skin Disease
+Cow,Sneezing,Loss Appetite,Swollen Joints,Foot and Mouth
+Horse,Ruffled Feathers,Nasal Discharge,Diarrhea,Tetanus
+Horse,Vomiting,Sneezing,Fever,Tetanus
+Cat,Limping,Cough,Nasal Discharge,Rabies
+Cow,Fever,Sneezing,Red Skin,Foot and Mouth
+Cow,Weight Loss,Vomiting,Sweating,Lumpy Skin Disease
+Horse,Nasal Discharge,Itching,Fever,Tetanus
+Dog,Cough,Dehydration,Ruffled Feathers,Canine Distemper
+Cat,Diarrhea,Ruffled Feathers,Hair Loss,Rabies
+Cow,Lethargy,Colic,Weight Loss,Mastitis
+Cat,Colic,Sneezing,Restlessness,Worm Infestation
+Cat,Colic,Swollen Joints,Sweating,Worm Infestation
+Cat,Hair Loss,Dehydration,Restlessness,Worm Infestation
+Cat,Ruffled Feathers,Colic,Weight Loss,Feline Herpesvirus
+Chicken,Lethargy,Red Skin,Colic,Avian Influenza
+Horse,Runny Nose,Ruffled Feathers,Cough,Colic
+Chicken,Loss Appetite,Runny Nose,Vomiting,Avian Influenza
+Cat,Fever,Red Skin,Limping,Worm Infestation
+Dog,Runny Nose,Hair Loss,Dehydration,Canine Distemper
+Horse,Hair Loss,Weight Loss,Dehydration,Colic
+Horse,Ruffled Feathers,Weight Loss,Itching,Equine Influenza
+Dog,Runny Nose,Colic,Dehydration,Rabies
+Chicken,Loss Appetite,Runny Nose,Swollen Joints,Avian Influenza
+Horse,Vomiting,Red Skin,Fever,Tetanus
+Dog,Vomiting,Diarrhea,Runny Nose,Rabies
+Cat,Itching,Loss Appetite,Swollen Joints,Feline Herpesvirus
+Cow,Fever,Sneezing,Vomiting,Foot and Mouth
+Cow,Fever,Limping,Lethargy,Foot and Mouth
+Cow,Ruffled Feathers,Weight Loss,Cough,Lumpy Skin Disease
+Cow,Red Skin,Cough,Sweating,Foot and Mouth
+Chicken,Colic,Weight Loss,Cough,Avian Influenza
+Cat,Limping,Ruffled Feathers,Colic,Rabies
+Horse,Cough,Colic,Dehydration,Colic
+Cow,Restlessness,Fever,Sweating,Foot and Mouth
+Chicken,Restlessness,Ruffled Feathers,Weight Loss,Coccidiosis
+Dog,Fever,Nasal Discharge,Vomiting,Rabies
+Cow,Swollen Joints,Red Skin,Sneezing,Mastitis
+Dog,Nasal Discharge,Colic,Sweating,Canine Distemper
+Dog,Loss Appetite,Red Skin,Itching,Rabies
+Dog,Swollen Joints,Runny Nose,Weight Loss,Canine Distemper
+Horse,Fever,Sweating,Loss Appetite,Tetanus
+Dog,Colic,Red Skin,Weight Loss,Rabies
+Chicken,Restlessness,Sneezing,Swollen Joints,Coccidiosis
+Dog,Cough,Runny Nose,Red Skin,Mange
+Chicken,Sneezing,Itching,Hair Loss,Coccidiosis
+Horse,Diarrhea,Sneezing,Restlessness,Equine Influenza
+Cat,Red Skin,Lethargy,Nasal Discharge,Rabies
+Dog,Runny Nose,Vomiting,Diarrhea,Canine Distemper
+Cat,Fever,Sneezing,Weight Loss,Worm Infestation
+Horse,Hair Loss,Sneezing,Vomiting,Equine Influenza
+Cat,Lethargy,Fever,Weight Loss,Worm Infestation
+Chicken,Swollen Joints,Limping,Diarrhea,Newcastle Disease
+Cat,Ruffled Feathers,Weight Loss,Dehydration,Worm Infestation
+Horse,Hair Loss,Dehydration,Sweating,Equine Influenza
+Horse,Dehydration,Restlessness,Nasal Discharge,Tetanus
+Cat,Diarrhea,Runny Nose,Itching,Feline Herpesvirus
+Cat,Dehydration,Limping,Restlessness,Rabies
+Dog,Red Skin,Fever,Dehydration,Mange
+Dog,Weight Loss,Sweating,Nasal Discharge,Rabies
+Chicken,Weight Loss,Vomiting,Diarrhea,Newcastle Disease
+Chicken,Sweating,Hair Loss,Nasal Discharge,Avian Influenza
+Horse,Hair Loss,Itching,Ruffled Feathers,Equine Influenza
+Dog,Sneezing,Runny Nose,Itching,Rabies
+Cow,Fever,Sneezing,Sweating,Lumpy Skin Disease
+Chicken,Fever,Sweating,Swollen Joints,Avian Influenza
+Chicken,Fever,Diarrhea,Swollen Joints,Newcastle Disease
+Cat,Diarrhea,Swollen Joints,Ruffled Feathers,Worm Infestation
+Horse,Fever,Colic,Itching,Equine Influenza
+Dog,Sweating,Diarrhea,Sneezing,Rabies
+Horse,Ruffled Feathers,Sneezing,Runny Nose,Colic
+Cow,Cough,Dehydration,Ruffled Feathers,Mastitis
+Horse,Nasal Discharge,Diarrhea,Dehydration,Tetanus
+Cow,Itching,Lethargy,Hair Loss,Lumpy Skin Disease
+Horse,Cough,Runny Nose,Nasal Discharge,Tetanus
+Cat,Limping,Itching,Cough,Rabies
+Cow,Itching,Dehydration,Red Skin,Foot and Mouth
+Cow,Limping,Vomiting,Loss Appetite,Lumpy Skin Disease
+Cow,Diarrhea,Itching,Vomiting,Mastitis
+Chicken,Itching,Dehydration,Swollen Joints,Coccidiosis
+Chicken,Runny Nose,Nasal Discharge,Swollen Joints,Newcastle Disease
+Horse,Limping,Sneezing,Weight Loss,Equine Influenza
+Dog,Limping,Sweating,Runny Nose,Canine Distemper
+Cat,Cough,Restlessness,Sweating,Rabies
+Dog,Vomiting,Ruffled Feathers,Lethargy,Canine Distemper
+Horse,Sweating,Limping,Restlessness,Equine Influenza
+Dog,Weight Loss,Limping,Fever,Canine Distemper
+Horse,Weight Loss,Limping,Vomiting,Tetanus
+Cow,Colic,Cough,Itching,Lumpy Skin Disease
+Cow,Restlessness,Weight Loss,Red Skin,Lumpy Skin Disease
+Cat,Fever,Red Skin,Limping,Rabies
+Chicken,Colic,Lethargy,Nasal Discharge,Newcastle Disease
+Chicken,Swollen Joints,Nasal Discharge,Fever,Avian Influenza
+Dog,Vomiting,Lethargy,Sweating,Canine Distemper
+Cat,Lethargy,Ruffled Feathers,Colic,Worm Infestation
+Horse,Weight Loss,Sneezing,Dehydration,Equine Influenza
+Chicken,Cough,Loss Appetite,Nasal Discharge,Avian Influenza
+Chicken,Cough,Sweating,Loss Appetite,Coccidiosis
+Dog,Restlessness,Colic,Weight Loss,Mange
+Cow,Runny Nose,Restlessness,Sweating,Lumpy Skin Disease
+Cow,Ruffled Feathers,Sneezing,Itching,Lumpy Skin Disease
+Horse,Limping,Itching,Fever,Colic
+Horse,Lethargy,Limping,Diarrhea,Tetanus
+Cat,Weight Loss,Swollen Joints,Nasal Discharge,Worm Infestation
+Horse,Sneezing,Swollen Joints,Runny Nose,Tetanus
+Horse,Colic,Lethargy,Sneezing,Equine Influenza
+Horse,Weight Loss,Sweating,Loss Appetite,Tetanus
+Cow,Sweating,Itching,Cough,Mastitis
+Chicken,Restlessness,Lethargy,Swollen Joints,Coccidiosis
+Chicken,Lethargy,Hair Loss,Weight Loss,Newcastle Disease
+Chicken,Ruffled Feathers,Sneezing,Cough,Coccidiosis
+Horse,Colic,Vomiting,Sneezing,Equine Influenza
+Horse,Weight Loss,Dehydration,Restlessness,Tetanus
+Cat,Hair Loss,Lethargy,Diarrhea,Feline Herpesvirus
+Cow,Fever,Cough,Swollen Joints,Foot and Mouth
+Chicken,Itching,Fever,Sneezing,Coccidiosis
+Cow,Colic,Swollen Joints,Lethargy,Foot and Mouth
+Dog,Swollen Joints,Colic,Hair Loss,Mange
+Cow,Cough,Red Skin,Vomiting,Foot and Mouth
+Dog,Swollen Joints,Hair Loss,Fever,Canine Distemper
+Chicken,Limping,Runny Nose,Loss Appetite,Coccidiosis
+Dog,Restlessness,Lethargy,Fever,Mange
+Chicken,Dehydration,Hair Loss,Diarrhea,Newcastle Disease
+Cat,Sneezing,Swollen Joints,Fever,Feline Herpesvirus
+Dog,Red Skin,Lethargy,Limping,Canine Distemper
+Horse,Nasal Discharge,Red Skin,Colic,Equine Influenza
+Chicken,Sneezing,Colic,Restlessness,Coccidiosis
+Horse,Itching,Sweating,Red Skin,Colic
+Cat,Diarrhea,Loss Appetite,Sweating,Feline Herpesvirus
+Cow,Weight Loss,Cough,Red Skin,Foot and Mouth
+Horse,Itching,Swollen Joints,Hair Loss,Tetanus
+Horse,Itching,Limping,Cough,Equine Influenza
+Cow,Fever,Restlessness,Red Skin,Foot and Mouth
+Horse,Limping,Vomiting,Itching,Colic
+Cow,Fever,Dehydration,Limping,Foot and Mouth
+Cat,Nasal Discharge,Limping,Runny Nose,Worm Infestation
+Dog,Runny Nose,Loss Appetite,Restlessness,Rabies
+Cat,Limping,Hair Loss,Restlessness,Feline Herpesvirus
+Cat,Colic,Lethargy,Ruffled Feathers,Feline Herpesvirus
+Horse,Dehydration,Limping,Red Skin,Equine Influenza
+Dog,Red Skin,Limping,Fever,Canine Distemper
+Cow,Sweating,Nasal Discharge,Fever,Lumpy Skin Disease
+Cat,Red Skin,Nasal Discharge,Limping,Rabies
+Cat,Red Skin,Swollen Joints,Runny Nose,Worm Infestation
+Horse,Diarrhea,Runny Nose,Red Skin,Tetanus
+Cat,Cough,Lethargy,Nasal Discharge,Rabies
+Horse,Runny Nose,Sweating,Fever,Equine Influenza
+Horse,Runny Nose,Colic,Itching,Colic
+Chicken,Weight Loss,Limping,Cough,Avian Influenza
+Cow,Fever,Dehydration,Colic,Mastitis
+Horse,Restlessness,Loss Appetite,Sweating,Equine Influenza
+Chicken,Ruffled Feathers,Swollen Joints,Runny Nose,Coccidiosis
+Cow,Red Skin,Hair Loss,Swollen Joints,Foot and Mouth
+Cow,Hair Loss,Weight Loss,Itching,Lumpy Skin Disease
+Horse,Sneezing,Itching,Fever,Colic
+Cow,Nasal Discharge,Vomiting,Itching,Mastitis
+Dog,Diarrhea,Sweating,Vomiting,Canine Distemper
+Cat,Hair Loss,Restlessness,Colic,Worm Infestation
+Dog,Runny Nose,Weight Loss,Nasal Discharge,Canine Distemper
+Dog,Red Skin,Hair Loss,Cough,Mange
+Chicken,Cough,Swollen Joints,Runny Nose,Avian Influenza
+Cow,Colic,Sneezing,Loss Appetite,Lumpy Skin Disease
+Horse,Limping,Runny Nose,Colic,Equine Influenza
+Cow,Fever,Itching,Ruffled Feathers,Mastitis
+Cow,Sweating,Itching,Limping,Lumpy Skin Disease
+Cat,Sweating,Colic,Itching,Worm Infestation
+Dog,Swollen Joints,Sweating,Loss Appetite,Rabies
+Chicken,Limping,Weight Loss,Colic,Avian Influenza
+Cat,Restlessness,Fever,Hair Loss,Feline Herpesvirus
+Cow,Dehydration,Weight Loss,Runny Nose,Mastitis
+Cow,Fever,Limping,Diarrhea,Lumpy Skin Disease
+Horse,Limping,Swollen Joints,Itching,Tetanus
+Cat,Hair Loss,Weight Loss,Lethargy,Rabies
+Chicken,Nasal Discharge,Itching,Vomiting,Coccidiosis
+Chicken,Fever,Loss Appetite,Nasal Discharge,Coccidiosis
+Horse,Limping,Hair Loss,Vomiting,Tetanus
+Cow,Fever,Colic,Red Skin,Mastitis
+Horse,Limping,Vomiting,Red Skin,Equine Influenza
+Cow,Sweating,Red Skin,Colic,Mastitis
+Chicken,Loss Appetite,Itching,Dehydration,Avian Influenza
+Chicken,Cough,Red Skin,Weight Loss,Newcastle Disease
+Dog,Swollen Joints,Runny Nose,Dehydration,Mange
+Cat,Dehydration,Weight Loss,Red Skin,Worm Infestation
+Dog,Lethargy,Sweating,Sneezing,Mange
+Chicken,Weight Loss,Itching,Vomiting,Newcastle Disease
+Cat,Red Skin,Weight Loss,Itching,Rabies
+Cat,Hair Loss,Dehydration,Restlessness,Rabies
+Dog,Dehydration,Itching,Vomiting,Canine Distemper
+Chicken,Hair Loss,Nasal Discharge,Diarrhea,Coccidiosis
+Horse,Sweating,Restlessness,Nasal Discharge,Colic
+Cat,Weight Loss,Hair Loss,Fever,Worm Infestation
+Cat,Restlessness,Hair Loss,Weight Loss,Rabies
+Cow,Loss Appetite,Limping,Dehydration,Lumpy Skin Disease
+Dog,Ruffled Feathers,Restlessness,Lethargy,Mange
+Cat,Lethargy,Red Skin,Hair Loss,Rabies
+Cat,Cough,Dehydration,Ruffled Feathers,Rabies
+Horse,Sneezing,Vomiting,Nasal Discharge,Equine Influenza
+Horse,Sweating,Itching,Weight Loss,Equine Influenza
+Dog,Sneezing,Cough,Lethargy,Rabies
+Dog,Diarrhea,Dehydration,Hair Loss,Canine Distemper
+Cat,Nasal Discharge,Loss Appetite,Sneezing,Worm Infestation
+Horse,Ruffled Feathers,Red Skin,Cough,Equine Influenza
+Cow,Runny Nose,Itching,Hair Loss,Foot and Mouth
+Dog,Restlessness,Sneezing,Weight Loss,Rabies
+Horse,Dehydration,Red Skin,Lethargy,Equine Influenza
+Dog,Sneezing,Red Skin,Runny Nose,Canine Distemper
+Horse,Restlessness,Diarrhea,Fever,Equine Influenza
+Dog,Swollen Joints,Fever,Vomiting,Canine Distemper
+Dog,Diarrhea,Limping,Swollen Joints,Canine Distemper
+Horse,Weight Loss,Runny Nose,Red Skin,Equine Influenza
+Horse,Restlessness,Vomiting,Colic,Equine Influenza
+Cow,Weight Loss,Red Skin,Lethargy,Foot and Mouth
+Dog,Fever,Ruffled Feathers,Cough,Rabies
+Chicken,Ruffled Feathers,Cough,Weight Loss,Coccidiosis
+Cat,Ruffled Feathers,Hair Loss,Swollen Joints,Worm Infestation
+Horse,Runny Nose,Sneezing,Limping,Tetanus
+Horse,Limping,Swollen Joints,Diarrhea,Colic
+Dog,Runny Nose,Sweating,Ruffled Feathers,Mange
+Cat,Dehydration,Sweating,Red Skin,Rabies
+Cat,Red Skin,Weight Loss,Restlessness,Rabies
+Dog,Restlessness,Swollen Joints,Nasal Discharge,Mange
+Cat,Ruffled Feathers,Colic,Diarrhea,Worm Infestation
+Dog,Red Skin,Lethargy,Diarrhea,Rabies
+Cow,Restlessness,Cough,Weight Loss,Foot and Mouth
+Dog,Hair Loss,Fever,Sneezing,Mange
+Cat,Colic,Nasal Discharge,Swollen Joints,Worm Infestation
+Cat,Itching,Vomiting,Lethargy,Feline Herpesvirus
+Chicken,Sneezing,Hair Loss,Limping,Avian Influenza
+Cow,Cough,Restlessness,Hair Loss,Mastitis
+Cow,Itching,Vomiting,Restlessness,Mastitis
+Dog,Sneezing,Cough,Fever,Rabies
+Cow,Diarrhea,Swollen Joints,Nasal Discharge,Mastitis
+Horse,Lethargy,Weight Loss,Diarrhea,Equine Influenza
+Cow,Colic,Runny Nose,Fever,Lumpy Skin Disease
+Cow,Hair Loss,Nasal Discharge,Dehydration,Lumpy Skin Disease
+Dog,Lethargy,Fever,Ruffled Feathers,Mange
+Chicken,Runny Nose,Swollen Joints,Loss Appetite,Coccidiosis
+Chicken,Limping,Red Skin,Itching,Avian Influenza
+Dog,Runny Nose,Lethargy,Red Skin,Mange
+Chicken,Red Skin,Sweating,Swollen Joints,Avian Influenza
+Chicken,Vomiting,Nasal Discharge,Loss Appetite,Coccidiosis
+Chicken,Weight Loss,Fever,Restlessness,Avian Influenza
+Horse,Swollen Joints,Restlessness,Fever,Tetanus
+Dog,Nasal Discharge,Fever,Colic,Rabies
+Horse,Red Skin,Lethargy,Vomiting,Tetanus
+Horse,Weight Loss,Fever,Lethargy,Equine Influenza
+Chicken,Sweating,Hair Loss,Limping,Avian Influenza
+Cat,Runny Nose,Hair Loss,Itching,Rabies
+Chicken,Colic,Dehydration,Fever,Avian Influenza
+Chicken,Itching,Lethargy,Red Skin,Avian Influenza
+Horse,Restlessness,Fever,Red Skin,Equine Influenza
+Dog,Fever,Diarrhea,Lethargy,Canine Distemper
+Horse,Nasal Discharge,Runny Nose,Cough,Equine Influenza
+Cat,Loss Appetite,Restlessness,Weight Loss,Worm Infestation
+Horse,Weight Loss,Vomiting,Diarrhea,Tetanus
+Cat,Hair Loss,Swollen Joints,Red Skin,Feline Herpesvirus
+Horse,Dehydration,Diarrhea,Red Skin,Tetanus
+Cat,Colic,Restlessness,Fever,Worm Infestation
+Chicken,Cough,Ruffled Feathers,Sneezing,Coccidiosis
+Chicken,Lethargy,Vomiting,Hair Loss,Coccidiosis
+Dog,Red Skin,Itching,Hair Loss,Mange
+Dog,Vomiting,Lethargy,Colic,Mange
+Cat,Loss Appetite,Lethargy,Sweating,Feline Herpesvirus
+Chicken,Red Skin,Ruffled Feathers,Restlessness,Avian Influenza
+Cow,Red Skin,Dehydration,Limping,Mastitis
+Cat,Restlessness,Itching,Runny Nose,Worm Infestation
+Dog,Loss Appetite,Sweating,Dehydration,Canine Distemper
+Cow,Sneezing,Hair Loss,Weight Loss,Mastitis
+Dog,Colic,Runny Nose,Sneezing,Mange
+Chicken,Nasal Discharge,Red Skin,Limping,Avian Influenza
+Chicken,Loss Appetite,Red Skin,Vomiting,Newcastle Disease
+Dog,Itching,Swollen Joints,Ruffled Feathers,Rabies
+Horse,Dehydration,Red Skin,Weight Loss,Equine Influenza
+Cow,Hair Loss,Sneezing,Loss Appetite,Mastitis
+Horse,Limping,Loss Appetite,Nasal Discharge,Tetanus
+Cat,Sweating,Weight Loss,Diarrhea,Rabies
+Dog,Dehydration,Limping,Lethargy,Canine Distemper
+Horse,Sneezing,Lethargy,Itching,Colic
+Horse,Colic,Sneezing,Itching,Equine Influenza
+Chicken,Restlessness,Colic,Loss Appetite,Newcastle Disease
+Dog,Diarrhea,Fever,Ruffled Feathers,Canine Distemper
+Chicken,Fever,Lethargy,Swollen Joints,Avian Influenza
+Dog,Colic,Sneezing,Ruffled Feathers,Rabies
+Dog,Cough,Dehydration,Fever,Mange
+Chicken,Fever,Colic,Restlessness,Avian Influenza
+Cow,Diarrhea,Restlessness,Loss Appetite,Mastitis
+Cat,Red Skin,Diarrhea,Runny Nose,Feline Herpesvirus
+Horse,Swollen Joints,Red Skin,Diarrhea,Colic
+Chicken,Sweating,Vomiting,Fever,Newcastle Disease
+Chicken,Nasal Discharge,Red Skin,Runny Nose,Newcastle Disease
+Chicken,Cough,Fever,Vomiting,Avian Influenza
+Horse,Sweating,Limping,Hair Loss,Colic
+Cow,Runny Nose,Vomiting,Fever,Mastitis
+Cat,Loss Appetite,Weight Loss,Itching,Feline Herpesvirus
+Cow,Colic,Swollen Joints,Fever,Foot and Mouth
+Horse,Red Skin,Sweating,Weight Loss,Colic
+Cat,Red Skin,Weight Loss,Diarrhea,Worm Infestation
+Cat,Sneezing,Swollen Joints,Nasal Discharge,Feline Herpesvirus
+Cow,Restlessness,Diarrhea,Swollen Joints,Foot and Mouth
+Chicken,Sneezing,Runny Nose,Ruffled Feathers,Avian Influenza
+Chicken,Lethargy,Itching,Hair Loss,Coccidiosis
+Horse,Runny Nose,Nasal Discharge,Dehydration,Colic
+Cat,Restlessness,Red Skin,Vomiting,Feline Herpesvirus
+Horse,Sweating,Itching,Swollen Joints,Colic
+Dog,Cough,Lethargy,Hair Loss,Mange
+Cow,Restlessness,Hair Loss,Vomiting,Lumpy Skin Disease
+Dog,Swollen Joints,Itching,Lethargy,Mange
+Cat,Loss Appetite,Ruffled Feathers,Swollen Joints,Feline Herpesvirus
+Dog,Vomiting,Lethargy,Diarrhea,Mange
+Cow,Limping,Vomiting,Hair Loss,Lumpy Skin Disease
+Chicken,Itching,Cough,Fever,Newcastle Disease
+Horse,Swollen Joints,Runny Nose,Vomiting,Colic
+Horse,Cough,Colic,Restlessness,Equine Influenza
+Chicken,Ruffled Feathers,Vomiting,Diarrhea,Newcastle Disease
+Cow,Diarrhea,Runny Nose,Weight Loss,Lumpy Skin Disease
+Chicken,Nasal Discharge,Diarrhea,Sneezing,Newcastle Disease
+Dog,Swollen Joints,Loss Appetite,Vomiting,Mange
+Horse,Ruffled Feathers,Limping,Weight Loss,Equine Influenza
+Chicken,Restlessness,Loss Appetite,Hair Loss,Coccidiosis
+Horse,Nasal Discharge,Weight Loss,Sweating,Tetanus
+Horse,Sneezing,Restlessness,Dehydration,Colic
+Cow,Red Skin,Hair Loss,Runny Nose,Lumpy Skin Disease
+Cat,Weight Loss,Ruffled Feathers,Diarrhea,Rabies
+Chicken,Loss Appetite,Diarrhea,Lethargy,Coccidiosis
+Chicken,Cough,Sneezing,Red Skin,Avian Influenza
+Chicken,Restlessness,Itching,Dehydration,Avian Influenza
+Dog,Sneezing,Weight Loss,Diarrhea,Mange
+Dog,Hair Loss,Nasal Discharge,Runny Nose,Canine Distemper
+Horse,Weight Loss,Itching,Diarrhea,Colic
+Horse,Itching,Swollen Joints,Dehydration,Equine Influenza
+Cat,Runny Nose,Ruffled Feathers,Restlessness,Rabies
+Cow,Lethargy,Fever,Itching,Mastitis
+Chicken,Dehydration,Sneezing,Itching,Coccidiosis
+Horse,Hair Loss,Itching,Dehydration,Tetanus
+Cow,Vomiting,Itching,Sneezing,Lumpy Skin Disease
+Horse,Swollen Joints,Lethargy,Nasal Discharge,Tetanus
+Cow,Loss Appetite,Itching,Cough,Foot and Mouth
+Horse,Red Skin,Sweating,Hair Loss,Tetanus
+Cow,Colic,Hair Loss,Sneezing,Mastitis
+Cat,Nasal Discharge,Limping,Diarrhea,Worm Infestation
+Horse,Vomiting,Limping,Fever,Colic
+Dog,Weight Loss,Limping,Cough,Canine Distemper
+Cat,Red Skin,Restlessness,Cough,Worm Infestation
+Cow,Runny Nose,Fever,Hair Loss,Mastitis
+Horse,Dehydration,Cough,Vomiting,Equine Influenza
+Horse,Nasal Discharge,Dehydration,Lethargy,Colic
+Dog,Runny Nose,Ruffled Feathers,Itching,Canine Distemper
+Cow,Diarrhea,Sweating,Ruffled Feathers,Foot and Mouth
+Horse,Vomiting,Runny Nose,Restlessness,Colic
+Chicken,Itching,Cough,Diarrhea,Coccidiosis
+Dog,Lethargy,Loss Appetite,Fever,Mange
+Cat,Restlessness,Hair Loss,Limping,Worm Infestation
+Cat,Restlessness,Diarrhea,Sneezing,Rabies
+Cat,Hair Loss,Ruffled Feathers,Restlessness,Worm Infestation
+Cat,Hair Loss,Vomiting,Limping,Feline Herpesvirus
+Chicken,Vomiting,Diarrhea,Cough,Coccidiosis
+Cat,Weight Loss,Limping,Red Skin,Rabies
+Cow,Sneezing,Colic,Sweating,Mastitis
+Cat,Colic,Cough,Dehydration,Feline Herpesvirus
+Horse,Nasal Discharge,Diarrhea,Fever,Tetanus
+Cow,Fever,Runny Nose,Sneezing,Lumpy Skin Disease
+Chicken,Ruffled Feathers,Loss Appetite,Nasal Discharge,Newcastle Disease
+Cow,Itching,Nasal Discharge,Vomiting,Mastitis
+Cat,Loss Appetite,Ruffled Feathers,Itching,Feline Herpesvirus
+Dog,Cough,Nasal Discharge,Weight Loss,Canine Distemper
+Cow,Lethargy,Runny Nose,Restlessness,Mastitis
+Cat,Nasal Discharge,Dehydration,Swollen Joints,Worm Infestation
+Dog,Limping,Diarrhea,Colic,Canine Distemper
+Dog,Nasal Discharge,Sneezing,Diarrhea,Canine Distemper
+Chicken,Cough,Sneezing,Ruffled Feathers,Newcastle Disease
+Horse,Limping,Runny Nose,Restlessness,Equine Influenza
+Dog,Sneezing,Dehydration,Nasal Discharge,Rabies
+Cat,Red Skin,Sneezing,Colic,Feline Herpesvirus
+Chicken,Vomiting,Ruffled Feathers,Loss Appetite,Coccidiosis
+Cat,Swollen Joints,Lethargy,Sneezing,Worm Infestation
+Horse,Nasal Discharge,Swollen Joints,Hair Loss,Tetanus
+Cow,Vomiting,Restlessness,Weight Loss,Lumpy Skin Disease
+Dog,Fever,Weight Loss,Sweating,Mange
+Dog,Cough,Restlessness,Loss Appetite,Canine Distemper
+Cat,Loss Appetite,Ruffled Feathers,Sneezing,Feline Herpesvirus
+Chicken,Ruffled Feathers,Nasal Discharge,Colic,Newcastle Disease
+Chicken,Red Skin,Lethargy,Hair Loss,Avian Influenza
+Cat,Vomiting,Limping,Itching,Rabies
+Chicken,Lethargy,Nasal Discharge,Sweating,Newcastle Disease
+Chicken,Itching,Sweating,Cough,Coccidiosis
+Dog,Lethargy,Vomiting,Fever,Mange
+Horse,Hair Loss,Vomiting,Loss Appetite,Equine Influenza
+Horse,Cough,Fever,Colic,Colic
+Cat,Limping,Fever,Loss Appetite,Feline Herpesvirus
+Chicken,Cough,Colic,Restlessness,Newcastle Disease
+Dog,Nasal Discharge,Loss Appetite,Itching,Mange
+Horse,Sweating,Red Skin,Hair Loss,Equine Influenza
+Cat,Colic,Swollen Joints,Restlessness,Worm Infestation
+Cat,Sneezing,Hair Loss,Runny Nose,Worm Infestation
+Cow,Restlessness,Loss Appetite,Dehydration,Foot and Mouth
+Cat,Weight Loss,Ruffled Feathers,Dehydration,Feline Herpesvirus
+Cat,Nasal Discharge,Runny Nose,Fever,Worm Infestation
+Horse,Lethargy,Limping,Restlessness,Equine Influenza
+Chicken,Restlessness,Colic,Cough,Coccidiosis
+Cow,Dehydration,Swollen Joints,Sweating,Lumpy Skin Disease
+Dog,Fever,Nasal Discharge,Hair Loss,Mange
+Cat,Swollen Joints,Lethargy,Weight Loss,Worm Infestation
+Dog,Limping,Cough,Vomiting,Rabies
+Cat,Sneezing,Fever,Cough,Worm Infestation
+Chicken,Sweating,Lethargy,Loss Appetite,Avian Influenza
+Cat,Swollen Joints,Vomiting,Fever,Feline Herpesvirus
+Cow,Red Skin,Itching,Sneezing,Lumpy Skin Disease
+Horse,Colic,Runny Nose,Restlessness,Equine Influenza
+Chicken,Runny Nose,Weight Loss,Colic,Avian Influenza
+Cow,Vomiting,Colic,Runny Nose,Lumpy Skin Disease
+Cow,Vomiting,Red Skin,Limping,Foot and Mouth
+Cow,Weight Loss,Fever,Hair Loss,Mastitis
+Cow,Runny Nose,Sweating,Loss Appetite,Lumpy Skin Disease
+Cat,Itching,Restlessness,Colic,Feline Herpesvirus
+Cat,Nasal Discharge,Weight Loss,Swollen Joints,Rabies
+Horse,Dehydration,Itching,Sneezing,Colic
+Horse,Diarrhea,Fever,Sneezing,Equine Influenza
+Cow,Red Skin,Cough,Sweating,Foot and Mouth
+Cat,Nasal Discharge,Vomiting,Runny Nose,Worm Infestation
+Cat,Loss Appetite,Ruffled Feathers,Limping,Rabies
+Horse,Ruffled Feathers,Cough,Red Skin,Tetanus
+Cat,Colic,Loss Appetite,Hair Loss,Feline Herpesvirus
+Cat,Dehydration,Nasal Discharge,Restlessness,Rabies
+Dog,Colic,Restlessness,Dehydration,Canine Distemper
+Horse,Red Skin,Swollen Joints,Dehydration,Colic
+Horse,Loss Appetite,Limping,Ruffled Feathers,Equine Influenza
+Dog,Restlessness,Weight Loss,Hair Loss,Rabies
+Dog,Hair Loss,Runny Nose,Fever,Rabies
+Dog,Colic,Sneezing,Sweating,Canine Distemper
+Dog,Cough,Itching,Loss Appetite,Canine Distemper
+Chicken,Colic,Nasal Discharge,Limping,Newcastle Disease
+Cow,Weight Loss,Hair Loss,Lethargy,Lumpy Skin Disease
+Horse,Swollen Joints,Lethargy,Runny Nose,Tetanus
+Cat,Diarrhea,Lethargy,Ruffled Feathers,Feline Herpesvirus
+Chicken,Itching,Loss Appetite,Sneezing,Coccidiosis
+Horse,Dehydration,Vomiting,Runny Nose,Tetanus
+Cat,Restlessness,Sweating,Runny Nose,Feline Herpesvirus
+Horse,Nasal Discharge,Lethargy,Red Skin,Colic
+Cat,Loss Appetite,Fever,Itching,Feline Herpesvirus
+Chicken,Cough,Fever,Ruffled Feathers,Newcastle Disease
+Dog,Limping,Ruffled Feathers,Lethargy,Canine Distemper
+Dog,Loss Appetite,Itching,Vomiting,Rabies
+Cow,Itching,Restlessness,Sweating,Foot and Mouth
+Cat,Weight Loss,Ruffled Feathers,Hair Loss,Worm Infestation
+Cow,Swollen Joints,Fever,Lethargy,Foot and Mouth
+Dog,Lethargy,Ruffled Feathers,Vomiting,Mange
+Dog,Sweating,Limping,Itching,Mange
+Horse,Vomiting,Itching,Weight Loss,Colic
+Dog,Dehydration,Ruffled Feathers,Red Skin,Mange
+Horse,Red Skin,Sneezing,Runny Nose,Colic
+Cow,Dehydration,Sweating,Itching,Foot and Mouth
+Cat,Ruffled Feathers,Colic,Cough,Rabies
+Cow,Cough,Itching,Sneezing,Lumpy Skin Disease
+Chicken,Dehydration,Loss Appetite,Red Skin,Avian Influenza
+Dog,Runny Nose,Fever,Swollen Joints,Canine Distemper
+Dog,Swollen Joints,Lethargy,Red Skin,Rabies
+Chicken,Limping,Ruffled Feathers,Sneezing,Newcastle Disease
+Cat,Ruffled Feathers,Loss Appetite,Fever,Worm Infestation
+Chicken,Dehydration,Weight Loss,Sweating,Newcastle Disease
+Chicken,Cough,Dehydration,Weight Loss,Coccidiosis
+Dog,Ruffled Feathers,Runny Nose,Vomiting,Rabies
+Horse,Swollen Joints,Weight Loss,Hair Loss,Tetanus
