@@ -1,0 +1,1002 @@
+Symptom1,Symptom2,Symptom3,Disease
+Watery eyes,Shivering,Red eyes,Eye Infection
+Itching,Hair loss,Rash,Skin Infection
+Rash,Itching,Ear infection,Allergy
+Aggression,Shivering,Ear infection,Ear Mite Infestation
+Itching,Aggression,Shivering,Ear Mite Infestation
+Pain,Ear infection,Lethargy,Muscle Strain
+Anxiety,Fever,Vomiting,Parvovirus
+Lethargy,Limping,Dehydration,Arthritis
+Hair loss,Rash,Watery eyes,Allergy
+Loss of appetite,Diarrhea,Loss of appetite,Food Poisoning
+Sneezing,Limping,Watery eyes,Flu
+Shivering,Limping,Pain,Muscle Strain
+Sneezing,Fever,Nasal discharge,Respiratory Infection
+Aggression,Itching,Shivering,Ear Mite Infestation
+Limping,Lethargy,Shivering,Muscle Strain
+Shivering,Aggression,Ear infection,Ear Mite Infestation
+Shivering,Limping,Lethargy,Muscle Strain
+Lethargy,Sneezing,Cough,Flu
+Limping,Shivering,Lethargy,Muscle Strain
+Dehydration,Diarrhea,Watery eyes,Food Poisoning
+Swelling,Limping,Pain,Leg Injury
+Dehydration,Fever,Vomiting,Parvovirus
+Limping,Pain,Pain,Muscle Strain
+Excessive drooling,Loss of appetite,Pain,Dental Disease
+Loss of appetite,Diarrhea,Pain,Dental Disease
+Bruising,Anxiety,Pain,Leg Injury
+Lethargy,Fever,Fever,Flu
+Hair loss,Red eyes,Itching,Skin Infection
+Discharge,Bruising,Watery eyes,Eye Infection
+Loss of appetite,Diarrhea,Vomiting,Food Poisoning
+Lethargy,Pain,Shivering,Arthritis
+Dehydration,Diarrhea,Loss of appetite,Food Poisoning
+Red eyes,Itching,Hair loss,Skin Infection
+Lethargy,Vomiting,Diarrhea,Worm Infestation
+Limping,Shivering,Pain,Muscle Strain
+Itching,Aggression,Ear infection,Ear Mite Infestation
+Lethargy,Discharge,Watery eyes,Eye Infection
+Lethargy,Vomiting,Weight loss,Worm Infestation
+Loss of appetite,Red eyes,Dehydration,Food Poisoning
+Pain,Limping,Itching,Arthritis
+Diarrhea,Dehydration,Diarrhea,Food Poisoning
+Limping,Pain,Swelling,Leg Injury
+Limping,Shivering,Lethargy,Arthritis
+Pain,Lethargy,Limping,Muscle Strain
+Fever,Lethargy,Sneezing,Flu
+Cough,Nasal discharge,Fever,Respiratory Infection
+Rash,Diarrhea,Fever,Parvovirus
+Limping,Swelling,Pain,Leg Injury
+Pain,Fever,Sneezing,Respiratory Infection
+Pain,Lethargy,Limping,Arthritis
+Diarrhea,Weight loss,Lethargy,Worm Infestation
+Shivering,Red eyes,Pain,Arthritis
+Loss of appetite,Vomiting,Red eyes,Food Poisoning
+Limping,Limping,Shivering,Muscle Strain
+Hair loss,Red eyes,Red eyes,Skin Infection
+Fever,Loss of appetite,Dehydration,Food Poisoning
+Watery eyes,Red eyes,Discharge,Eye Infection
+Vomiting,Diarrhea,Dehydration,Food Poisoning
+Sneezing,Lethargy,Watery eyes,Flu
+Limping,Shivering,Pain,Arthritis
+Hair loss,Itching,Red eyes,Skin Infection
+Lethargy,Diarrhea,Vomiting,Worm Infestation
+Diarrhea,Loss of appetite,Dehydration,Food Poisoning
+Discharge,Watery eyes,Red eyes,Eye Infection
+Bruising,Watery eyes,Limping,Leg Injury
+Limping,Shivering,Pain,Arthritis
+Aggression,Shivering,Ear infection,Ear Mite Infestation
+Nasal discharge,Sneezing,Fever,Respiratory Infection
+Watery eyes,Fever,Sneezing,Flu
+Lethargy,Fever,Limping,Flu
+Red eyes,Watery eyes,Discharge,Eye Infection
+Ear infection,Itching,Shivering,Ear Mite Infestation
+Diarrhea,Loss of appetite,Dehydration,Food Poisoning
+Red eyes,Cough,Itching,Skin Infection
+Limping,Pain,Lethargy,Arthritis
+Bruising,Pain,Swelling,Leg Injury
+Sneezing,Cough,Pain,Flu
+Sneezing,Watery eyes,Cough,Flu
+Cough,Fever,Red eyes,Flu
+Limping,Lethargy,Shivering,Arthritis
+Pain,Shivering,Pain,Muscle Strain
+Limping,Lethargy,Pain,Arthritis
+Rash,Itching,Watery eyes,Allergy
+Limping,Bruising,Pain,Leg Injury
+Lethargy,Sneezing,Loss of appetite,Flu
+Limping,Pain,Swelling,Leg Injury
+Red eyes,Cough,Itching,Skin Infection
+Rash,Hair loss,Red eyes,Skin Infection
+Vomiting,Cough,Diarrhea,Food Poisoning
+Watery eyes,Rash,Watery eyes,Allergy
+Shivering,Lethargy,Limping,Muscle Strain
+Limping,Bruising,Swelling,Leg Injury
+Loss of appetite,Pain,Excessive drooling,Dental Disease
+Itching,Ear infection,Shivering,Ear Mite Infestation
+Red eyes,Lethargy,Watery eyes,Eye Infection
+Itching,Shivering,Aggression,Ear Mite Infestation
+Vomiting,Lethargy,Fever,Parvovirus
+Hair loss,Itching,Red eyes,Skin Infection
+Limping,Shivering,Sneezing,Arthritis
+Loss of appetite,Aggression,Pain,Dental Disease
+Itching,Red eyes,Itching,Skin Infection
+Pain,Shivering,Lethargy,Muscle Strain
+Nasal discharge,Pain,Shivering,Muscle Strain
+Sneezing,Cough,Fever,Flu
+Dehydration,Fever,Diarrhea,Parvovirus
+Aggression,Cough,Fever,Flu
+Rash,Hair loss,Red eyes,Skin Infection
+Bruising,Pain,Limping,Leg Injury
+Excessive drooling,Cough,Sneezing,Flu
+Lethargy,Red eyes,Discharge,Eye Infection
+Shivering,Lethargy,Limping,Muscle Strain
+Red eyes,Red eyes,Lethargy,Eye Infection
+Shivering,Lethargy,Pain,Muscle Strain
+Red eyes,Itching,Hair loss,Skin Infection
+Loss of appetite,Vomiting,Dehydration,Food Poisoning
+Itching,Sneezing,Rash,Allergy
+Vomiting,Lethargy,Weight loss,Worm Infestation
+Bruising,Swelling,Pain,Leg Injury
+Anxiety,Shivering,Lethargy,Muscle Strain
+Diarrhea,Vomiting,Fever,Parvovirus
+Hair loss,Itching,Red eyes,Skin Infection
+Lethargy,Sneezing,Cough,Flu
+Fever,Sneezing,Lethargy,Flu
+Vomiting,Swelling,Limping,Leg Injury
+Lethargy,Shivering,Pain,Muscle Strain
+Loss of appetite,Aggression,Pain,Dental Disease
+Fever,Nasal discharge,Nasal discharge,Respiratory Infection
+Itching,Sneezing,Watery eyes,Allergy
+Diarrhea,Dehydration,Swelling,Parvovirus
+Sneezing,Cough,Fever,Respiratory Infection
+Vomiting,Diarrhea,Loss of appetite,Food Poisoning
+Lethargy,Discharge,Watery eyes,Eye Infection
+Hair loss,Rash,Itching,Skin Infection
+Shivering,Red eyes,Lethargy,Muscle Strain
+Diarrhea,Vomiting,Dehydration,Food Poisoning
+Pain,Loss of appetite,Aggression,Dental Disease
+Pain,Loss of appetite,Aggression,Dental Disease
+Vomiting,Weight loss,Diarrhea,Worm Infestation
+Discharge,Lethargy,Red eyes,Eye Infection
+Sneezing,Rash,Itching,Allergy
+Nasal discharge,Lethargy,Sneezing,Respiratory Infection
+Hair loss,Rash,Red eyes,Skin Infection
+Watery eyes,Itching,Sneezing,Allergy
+Fever,Vomiting,Dehydration,Parvovirus
+Limping,Lethargy,Itching,Muscle Strain
+Excessive drooling,Aggression,Loss of appetite,Dental Disease
+Weight loss,Vomiting,Sneezing,Worm Infestation
+Sneezing,Pain,Swelling,Leg Injury
+Diarrhea,Vomiting,Loss of appetite,Food Poisoning
+Lethargy,Loss of appetite,Pain,Dental Disease
+Fever,Sneezing,Lethargy,Flu
+Bruising,Pain,Swelling,Leg Injury
+Weight loss,Weight loss,Vomiting,Worm Infestation
+Rash,Itching,Watery eyes,Allergy
+Discharge,Watery eyes,Red eyes,Eye Infection
+Watery eyes,Red eyes,Lethargy,Eye Infection
+Shivering,Limping,Pain,Muscle Strain
+Loss of appetite,Excessive drooling,Aggression,Dental Disease
+Dehydration,Diarrhea,Fever,Parvovirus
+Dehydration,Vomiting,Diarrhea,Parvovirus
+Lethargy,Shivering,Pain,Arthritis
+Ear infection,Aggression,Itching,Ear Mite Infestation
+Pain,Excessive drooling,Aggression,Dental Disease
+Hair loss,Red eyes,Rash,Skin Infection
+Hair loss,Red eyes,Hair loss,Skin Infection
+Ear infection,Shivering,Ear infection,Ear Mite Infestation
+Lethargy,Vomiting,Weight loss,Worm Infestation
+Rash,Hair loss,Itching,Skin Infection
+Cough,Sneezing,Nasal discharge,Respiratory Infection
+Pain,Limping,Swelling,Leg Injury
+Shivering,Aggression,Shivering,Ear Mite Infestation
+Aggression,Excessive drooling,Excessive drooling,Dental Disease
+Fever,Diarrhea,Vomiting,Parvovirus
+Shivering,Aggression,Ear infection,Ear Mite Infestation
+Excessive drooling,Dehydration,Vomiting,Parvovirus
+Rash,Itching,Red eyes,Skin Infection
+Limping,Aggression,Pain,Dental Disease
+Vomiting,Dehydration,Diarrhea,Food Poisoning
+Itching,Rash,Hair loss,Skin Infection
+Pain,Limping,Lethargy,Arthritis
+Aggression,Excessive drooling,Loss of appetite,Dental Disease
+Weight loss,Weight loss,Lethargy,Worm Infestation
+Lethargy,Diarrhea,Vomiting,Worm Infestation
+Hair loss,Rash,Red eyes,Skin Infection
+Diarrhea,Watery eyes,Itching,Allergy
+Sneezing,Fever,Nasal discharge,Respiratory Infection
+Discharge,Red eyes,Red eyes,Eye Infection
+Lethargy,Weight loss,Vomiting,Worm Infestation
+Itching,Rash,Red eyes,Skin Infection
+Vomiting,Fever,Dehydration,Parvovirus
+Sneezing,Cough,Nasal discharge,Respiratory Infection
+Limping,Shivering,Ear infection,Muscle Strain
+Excessive drooling,Loss of appetite,Excessive drooling,Dental Disease
+Nasal discharge,Cough,Sneezing,Respiratory Infection
+Bruising,Lethargy,Red eyes,Eye Infection
+Dehydration,Diarrhea,Dehydration,Parvovirus
+Shivering,Itching,Shivering,Ear Mite Infestation
+Red eyes,Rash,Hair loss,Skin Infection
+Lethargy,Lethargy,Limping,Muscle Strain
+Swelling,Bruising,Pain,Leg Injury
+Lethargy,Cough,Watery eyes,Flu
+Pain,Cough,Sneezing,Respiratory Infection
+Rash,Shivering,Itching,Skin Infection
+Aggression,Itching,Shivering,Ear Mite Infestation
+Loss of appetite,Pain,Aggression,Dental Disease
+Pain,Bruising,Limping,Leg Injury
+Dehydration,Diarrhea,Fever,Parvovirus
+Limping,Shivering,Lethargy,Muscle Strain
+Pain,Bruising,Swelling,Leg Injury
+Sneezing,Cough,Sneezing,Respiratory Infection
+Vomiting,Diarrhea,Weight loss,Parvovirus
+Vomiting,Diarrhea,Dehydration,Parvovirus
+Dehydration,Fever,Sneezing,Respiratory Infection
+Vomiting,Cough,Dehydration,Parvovirus
+Vomiting,Dehydration,Fever,Parvovirus
+Diarrhea,Vomiting,Diarrhea,Parvovirus
+Fever,Diarrhea,Dehydration,Parvovirus
+Limping,Shivering,Pain,Arthritis
+Shivering,Aggression,Ear infection,Ear Mite Infestation
+Sneezing,Rash,Itching,Allergy
+Dehydration,Vomiting,Loss of appetite,Food Poisoning
+Cough,Fever,Sneezing,Respiratory Infection
+Red eyes,Lethargy,Watery eyes,Eye Infection
+Limping,Lethargy,Limping,Arthritis
+Watery eyes,Fever,Lethargy,Flu
+Dehydration,Loss of appetite,Diarrhea,Food Poisoning
+Diarrhea,Vomiting,Loss of appetite,Food Poisoning
+Sneezing,Lethargy,Cough,Flu
+Diarrhea,Fever,Vomiting,Parvovirus
+Vomiting,Fever,Diarrhea,Parvovirus
+Shivering,Lethargy,Ear infection,Arthritis
+Loss of appetite,Aggression,Excessive drooling,Dental Disease
+Nasal discharge,Nasal discharge,Fever,Respiratory Infection
+Diarrhea,Vomiting,Weight loss,Worm Infestation
+Bruising,Weight loss,Diarrhea,Worm Infestation
+Shivering,Limping,Limping,Arthritis
+Lethargy,Lethargy,Pain,Muscle Strain
+Vomiting,Dehydration,Vomiting,Parvovirus
+Shivering,Lethargy,Pain,Arthritis
+Itching,Aggression,Ear infection,Ear Mite Infestation
+Watery eyes,Rash,Itching,Allergy
+Vomiting,Dehydration,Fever,Parvovirus
+Shivering,Aggression,Shivering,Ear Mite Infestation
+Diarrhea,Anxiety,Vomiting,Food Poisoning
+Loss of appetite,Aggression,Loss of appetite,Dental Disease
+Pain,Swelling,Limping,Leg Injury
+Fever,Vomiting,Diarrhea,Parvovirus
+Limping,Pain,Swelling,Leg Injury
+Fever,Sneezing,Nasal discharge,Respiratory Infection
+Sneezing,Rash,Anxiety,Allergy
+Fever,Hair loss,Cough,Respiratory Infection
+Dehydration,Loss of appetite,Vomiting,Food Poisoning
+Lethargy,Limping,Pain,Muscle Strain
+Bruising,Swelling,Bruising,Leg Injury
+Aggression,Dehydration,Loss of appetite,Dental Disease
+Limping,Pain,Lethargy,Arthritis
+Cough,Watery eyes,Ear infection,Flu
+Cough,Sneezing,Sneezing,Respiratory Infection
+Vomiting,Diarrhea,Vomiting,Worm Infestation
+Weight loss,Lethargy,Diarrhea,Worm Infestation
+Sneezing,Limping,Watery eyes,Allergy
+Excessive drooling,Aggression,Aggression,Dental Disease
+Limping,Pain,Lethargy,Muscle Strain
+Shivering,Lethargy,Pain,Arthritis
+Loss of appetite,Dehydration,Loss of appetite,Food Poisoning
+Itching,Shivering,Aggression,Ear Mite Infestation
+Dehydration,Vomiting,Fever,Parvovirus
+Diarrhea,Rash,Itching,Allergy
+Itching,Aggression,Ear infection,Ear Mite Infestation
+Dehydration,Loss of appetite,Vomiting,Food Poisoning
+Fever,Diarrhea,Vomiting,Parvovirus
+Rash,Rash,Itching,Skin Infection
+Rash,Diarrhea,Hair loss,Skin Infection
+Lethargy,Shivering,Limping,Muscle Strain
+Weight loss,Lethargy,Vomiting,Worm Infestation
+Diarrhea,Loss of appetite,Dehydration,Food Poisoning
+Dehydration,Fever,Vomiting,Parvovirus
+Loss of appetite,Diarrhea,Vomiting,Food Poisoning
+Lethargy,Pain,Shivering,Muscle Strain
+Itching,Aggression,Shivering,Ear Mite Infestation
+Watery eyes,Cough,Lethargy,Flu
+Itching,Ear infection,Aggression,Ear Mite Infestation
+Loss of appetite,Vomiting,Dehydration,Food Poisoning
+Limping,Lethargy,Shivering,Muscle Strain
+Hair loss,Itching,Rash,Skin Infection
+Red eyes,Itching,Lethargy,Eye Infection
+Pain,Sneezing,Bruising,Leg Injury
+Bruising,Pain,Limping,Leg Injury
+Sneezing,Dehydration,Diarrhea,Food Poisoning
+Shivering,Limping,Pain,Arthritis
+Lethargy,Vomiting,Discharge,Eye Infection
+Lethargy,Ear infection,Watery eyes,Eye Infection
+Vomiting,Itching,Dehydration,Parvovirus
+Nasal discharge,Cough,Fever,Respiratory Infection
+Cough,Fever,Watery eyes,Flu
+Diarrhea,Weight loss,Vomiting,Food Poisoning
+Itching,Hair loss,Rash,Skin Infection
+Loss of appetite,Limping,Bruising,Leg Injury
+Pain,Loss of appetite,Excessive drooling,Dental Disease
+Lethargy,Shivering,Watery eyes,Flu
+Vomiting,Fever,Cough,Flu
+Loss of appetite,Aggression,Excessive drooling,Dental Disease
+Lethargy,Fever,Cough,Flu
+Fever,Diarrhea,Dehydration,Parvovirus
+Lethargy,Loss of appetite,Pain,Dental Disease
+Watery eyes,Discharge,Red eyes,Eye Infection
+Hair loss,Aggression,Red eyes,Skin Infection
+Itching,Aggression,Red eyes,Ear Mite Infestation
+Lethargy,Lethargy,Shivering,Muscle Strain
+Lethargy,Shivering,Pain,Muscle Strain
+Diarrhea,Dehydration,Vomiting,Parvovirus
+Rash,Itching,Diarrhea,Allergy
+Limping,Shivering,Lethargy,Arthritis
+Lethargy,Vomiting,Sneezing,Flu
+Weight loss,Diarrhea,Lethargy,Worm Infestation
+Hair loss,Itching,Red eyes,Skin Infection
+Pain,Limping,Lethargy,Arthritis
+Pain,Vomiting,Shivering,Muscle Strain
+Fever,Lethargy,Lethargy,Flu
+Watery eyes,Sneezing,Itching,Allergy
+Bruising,Pain,Limping,Leg Injury
+Vomiting,Sneezing,Lethargy,Flu
+Limping,Pain,Vomiting,Arthritis
+Limping,Pain,Bruising,Leg Injury
+Pain,Excessive drooling,Loss of appetite,Dental Disease
+Limping,Shivering,Pain,Muscle Strain
+Weight loss,Vomiting,Lethargy,Worm Infestation
+Aggression,Shivering,Ear infection,Ear Mite Infestation
+Diarrhea,Lethargy,Vomiting,Worm Infestation
+Pain,Watery eyes,Sneezing,Allergy
+Lethargy,Vomiting,Diarrhea,Worm Infestation
+Nasal discharge,Fever,Nasal discharge,Respiratory Infection
+Dehydration,Vomiting,Loss of appetite,Food Poisoning
+Watery eyes,Discharge,Red eyes,Eye Infection
+Limping,Shivering,Pain,Arthritis
+Sneezing,Itching,Rash,Allergy
+Fever,Lethargy,Watery eyes,Flu
+Watery eyes,Discharge,Lethargy,Eye Infection
+Vomiting,Dehydration,Loss of appetite,Food Poisoning
+Hair loss,Itching,Rash,Skin Infection
+Pain,Lethargy,Shivering,Arthritis
+Sneezing,Cough,Lethargy,Flu
+Excessive drooling,Lethargy,Red eyes,Eye Infection
+Pain,Excessive drooling,Aggression,Dental Disease
+Lethargy,Shivering,Lethargy,Muscle Strain
+Pain,Loss of appetite,Excessive drooling,Dental Disease
+Pain,Excessive drooling,Aggression,Dental Disease
+Sneezing,Itching,Rash,Allergy
+Pain,Bruising,Limping,Leg Injury
+Sneezing,Sneezing,Fever,Flu
+Lethargy,Limping,Shivering,Arthritis
+Watery eyes,Sneezing,Rash,Allergy
+Itching,Red eyes,Rash,Skin Infection
+Loss of appetite,Watery eyes,Dehydration,Food Poisoning
+Shivering,Limping,Pain,Arthritis
+Pain,Weight loss,Loss of appetite,Dental Disease
+Loss of appetite,Aggression,Aggression,Dental Disease
+Sneezing,Itching,Watery eyes,Allergy
+Pain,Lethargy,Limping,Muscle Strain
+Shivering,Lethargy,Shivering,Muscle Strain
+Diarrhea,Dehydration,Vomiting,Parvovirus
+Dehydration,Sneezing,Watery eyes,Flu
+Discharge,Loss of appetite,Lethargy,Eye Infection
+Fever,Nasal discharge,Cough,Respiratory Infection
+Watery eyes,Lethargy,Fever,Flu
+Pain,Shivering,Lethargy,Muscle Strain
+Pain,Bruising,Limping,Leg Injury
+Shivering,Aggression,Itching,Ear Mite Infestation
+Dehydration,Vomiting,Dehydration,Parvovirus
+Itching,Shivering,Aggression,Ear Mite Infestation
+Lethargy,Limping,Shivering,Arthritis
+Lethargy,Shivering,Excessive drooling,Muscle Strain
+Shivering,Pain,Swelling,Muscle Strain
+Fever,Fever,Dehydration,Parvovirus
+Itching,Discharge,Red eyes,Eye Infection
+Cough,Watery eyes,Fever,Flu
+Pain,Excessive drooling,Loss of appetite,Dental Disease
+Lethargy,Diarrhea,Vomiting,Worm Infestation
+Lethargy,Lethargy,Diarrhea,Worm Infestation
+Lethargy,Diarrhea,Weight loss,Worm Infestation
+Fever,Dehydration,Diarrhea,Parvovirus
+Ear infection,Ear infection,Itching,Ear Mite Infestation
+Weight loss,Weight loss,Lethargy,Worm Infestation
+Red eyes,Limping,Pain,Arthritis
+Lethargy,Shivering,Limping,Muscle Strain
+Sneezing,Itching,Watery eyes,Allergy
+Diarrhea,Vomiting,Fever,Parvovirus
+Ear infection,Itching,Shivering,Ear Mite Infestation
+Rash,Watery eyes,Sneezing,Allergy
+Fever,Sneezing,Cough,Flu
+Itching,Itching,Hair loss,Skin Infection
+Pain,Shivering,Limping,Arthritis
+Limping,Lethargy,Shivering,Arthritis
+Aggression,Shivering,Ear infection,Ear Mite Infestation
+Cough,Pain,Excessive drooling,Dental Disease
+Lethargy,Diarrhea,Vomiting,Worm Infestation
+Watery eyes,Lethargy,Discharge,Eye Infection
+Loss of appetite,Vomiting,Fever,Parvovirus
+Limping,Shivering,Limping,Muscle Strain
+Shivering,Lethargy,Pain,Arthritis
+Nasal discharge,Cough,Fever,Respiratory Infection
+Shivering,Pain,Shivering,Arthritis
+Vomiting,Vomiting,Diarrhea,Worm Infestation
+Anxiety,Lethargy,Weight loss,Worm Infestation
+Pain,Limping,Bruising,Leg Injury
+Nasal discharge,Fever,Sneezing,Respiratory Infection
+Pain,Aggression,Excessive drooling,Dental Disease
+Watery eyes,Red eyes,Discharge,Eye Infection
+Diarrhea,Weight loss,Lethargy,Worm Infestation
+Shivering,Itching,Ear infection,Ear Mite Infestation
+Diarrhea,Vomiting,Dehydration,Parvovirus
+Shivering,Ear infection,Itching,Ear Mite Infestation
+Discharge,Lethargy,Bruising,Eye Infection
+Excessive drooling,Pain,Aggression,Dental Disease
+Cough,Sneezing,Lethargy,Flu
+Dehydration,Vomiting,Nasal discharge,Food Poisoning
+Itching,Rash,Watery eyes,Allergy
+Dehydration,Diarrhea,Vomiting,Parvovirus
+Aggression,Shivering,Ear infection,Ear Mite Infestation
+Aggression,Bruising,Shivering,Ear Mite Infestation
+Shivering,Aggression,Shivering,Ear Mite Infestation
+Limping,Bruising,Bruising,Leg Injury
+Shivering,Lethargy,Pain,Muscle Strain
+Loss of appetite,Vomiting,Diarrhea,Food Poisoning
+Fever,Diarrhea,Cough,Parvovirus
+Shivering,Itching,Itching,Ear Mite Infestation
+Weight loss,Nasal discharge,Cough,Respiratory Infection
+Vomiting,Diarrhea,Fever,Parvovirus
+Lethargy,Red eyes,Sneezing,Eye Infection
+Diarrhea,Loss of appetite,Dehydration,Food Poisoning
+Cough,Sneezing,Sneezing,Respiratory Infection
+Rash,Hair loss,Itching,Skin Infection
+Limping,Diarrhea,Vomiting,Parvovirus
+Shivering,Lethargy,Limping,Muscle Strain
+Fever,Lethargy,Pain,Arthritis
+Aggression,Shivering,Ear infection,Ear Mite Infestation
+Shivering,Lethargy,Limping,Muscle Strain
+Weight loss,Vomiting,Weight loss,Worm Infestation
+Pain,Shivering,Lethargy,Arthritis
+Vomiting,Weight loss,Nasal discharge,Worm Infestation
+Lethargy,Watery eyes,Red eyes,Eye Infection
+Shivering,Pain,Lethargy,Arthritis
+Lethargy,Limping,Shivering,Arthritis
+Cough,Sneezing,Fever,Flu
+Loss of appetite,Dehydration,Diarrhea,Food Poisoning
+Dehydration,Fever,Diarrhea,Parvovirus
+Pain,Limping,Shivering,Arthritis
+Itching,Rash,Red eyes,Skin Infection
+Pain,Aggression,Excessive drooling,Dental Disease
+Cough,Nasal discharge,Fever,Respiratory Infection
+Pain,Excessive drooling,Watery eyes,Dental Disease
+Rash,Itching,Hair loss,Skin Infection
+Vomiting,Vomiting,Diarrhea,Food Poisoning
+Weight loss,Rash,Hair loss,Skin Infection
+Lethargy,Red eyes,Discharge,Eye Infection
+Bruising,Pain,Limping,Leg Injury
+Limping,Bruising,Pain,Leg Injury
+Vomiting,Fever,Diarrhea,Parvovirus
+Fever,Bruising,Pain,Leg Injury
+Vomiting,Weight loss,Lethargy,Worm Infestation
+Diarrhea,Vomiting,Weight loss,Worm Infestation
+Fever,Nasal discharge,Cough,Respiratory Infection
+Diarrhea,Dehydration,Itching,Parvovirus
+Aggression,Itching,Ear infection,Ear Mite Infestation
+Pain,Loss of appetite,Aggression,Dental Disease
+Limping,Shivering,Pain,Arthritis
+Bruising,Limping,Shivering,Arthritis
+Pain,Loss of appetite,Aggression,Dental Disease
+Vomiting,Lethargy,Weight loss,Worm Infestation
+Pain,Limping,Shivering,Arthritis
+Fever,Lethargy,Pain,Arthritis
+Cough,Excessive drooling,Pain,Dental Disease
+Lethargy,Discharge,Watery eyes,Eye Infection
+Sneezing,Rash,Watery eyes,Allergy
+Itching,Rash,Itching,Skin Infection
+Lethargy,Weight loss,Diarrhea,Worm Infestation
+Pain,Shivering,Lethargy,Arthritis
+Excessive drooling,Pain,Loss of appetite,Dental Disease
+Ear infection,Shivering,Aggression,Ear Mite Infestation
+Fever,Lethargy,Lethargy,Flu
+Bruising,Red eyes,Pain,Leg Injury
+Swelling,Shivering,Itching,Ear Mite Infestation
+Vomiting,Weight loss,Weight loss,Worm Infestation
+Aggression,Excessive drooling,Pain,Dental Disease
+Rash,Fever,Cough,Respiratory Infection
+Vomiting,Diarrhea,Rash,Worm Infestation
+Cough,Nasal discharge,Red eyes,Respiratory Infection
+Swelling,Red eyes,Limping,Leg Injury
+Shivering,Cough,Lethargy,Flu
+Sneezing,Lethargy,Fever,Flu
+Weight loss,Cough,Sneezing,Respiratory Infection
+Pain,Shivering,Lethargy,Muscle Strain
+Itching,Aggression,Itching,Ear Mite Infestation
+Shivering,Pain,Limping,Arthritis
+Loss of appetite,Loss of appetite,Diarrhea,Food Poisoning
+Vomiting,Dehydration,Loss of appetite,Food Poisoning
+Limping,Hair loss,Pain,Leg Injury
+Watery eyes,Weight loss,Red eyes,Eye Infection
+Shivering,Itching,Aggression,Ear Mite Infestation
+Red eyes,Lethargy,Discharge,Eye Infection
+Discharge,Lethargy,Red eyes,Eye Infection
+Red eyes,Discharge,Watery eyes,Eye Infection
+Sneezing,Rash,Rash,Allergy
+Dehydration,Loss of appetite,Vomiting,Food Poisoning
+Itching,Rash,Hair loss,Skin Infection
+Lethargy,Red eyes,Watery eyes,Eye Infection
+Diarrhea,Vomiting,Dehydration,Food Poisoning
+Pain,Lethargy,Limping,Arthritis
+Pain,Excessive drooling,Aggression,Dental Disease
+Shivering,Pain,Lethargy,Muscle Strain
+Nasal discharge,Fever,Cough,Respiratory Infection
+Lethargy,Watery eyes,Discharge,Eye Infection
+Dehydration,Diarrhea,Vomiting,Food Poisoning
+Excessive drooling,Aggression,Loss of appetite,Dental Disease
+Pain,Bruising,Swelling,Leg Injury
+Diarrhea,Vomiting,Dehydration,Food Poisoning
+Itching,Ear infection,Aggression,Ear Mite Infestation
+Dehydration,Diarrhea,Vomiting,Parvovirus
+Loss of appetite,Excessive drooling,Aggression,Dental Disease
+Diarrhea,Dehydration,Vomiting,Food Poisoning
+Diarrhea,Dehydration,Vomiting,Food Poisoning
+Cough,Sneezing,Fever,Flu
+Red eyes,Itching,Shivering,Ear Mite Infestation
+Sneezing,Fever,Watery eyes,Flu
+Vomiting,Weight loss,Diarrhea,Worm Infestation
+Swelling,Bruising,Aggression,Leg Injury
+Excessive drooling,Aggression,Loss of appetite,Dental Disease
+Bruising,Diarrhea,Vomiting,Worm Infestation
+Weight loss,Diarrhea,Lethargy,Worm Infestation
+Limping,Pain,Shivering,Muscle Strain
+Vomiting,Loss of appetite,Dehydration,Food Poisoning
+Hair loss,Ear infection,Red eyes,Skin Infection
+Itching,Itching,Aggression,Ear Mite Infestation
+Pain,Lethargy,Limping,Muscle Strain
+Dehydration,Vomiting,Vomiting,Food Poisoning
+Fever,Vomiting,Dehydration,Parvovirus
+Red eyes,Rash,Itching,Skin Infection
+Loss of appetite,Pain,Nasal discharge,Dental Disease
+Limping,Pain,Lethargy,Arthritis
+Aggression,Excessive drooling,Pain,Dental Disease
+Rash,Sneezing,Nasal discharge,Allergy
+Watery eyes,Discharge,Red eyes,Eye Infection
+Vomiting,Aggression,Lethargy,Worm Infestation
+Swelling,Loss of appetite,Aggression,Dental Disease
+Pain,Aggression,Loss of appetite,Dental Disease
+Itching,Watery eyes,Watery eyes,Allergy
+Rash,Hair loss,Itching,Skin Infection
+Cough,Sneezing,Ear infection,Respiratory Infection
+Shivering,Ear infection,Itching,Ear Mite Infestation
+Shivering,Limping,Itching,Arthritis
+Lethargy,Limping,Pain,Arthritis
+Loss of appetite,Vomiting,Diarrhea,Food Poisoning
+Sneezing,Itching,Watery eyes,Allergy
+Watery eyes,Aggression,Sneezing,Allergy
+Aggression,Ear infection,Aggression,Ear Mite Infestation
+Watery eyes,Lethargy,Fever,Flu
+Loss of appetite,Diarrhea,Loss of appetite,Food Poisoning
+Bruising,Bruising,Pain,Leg Injury
+Shivering,Limping,Pain,Arthritis
+Sneezing,Cough,Fever,Flu
+Fever,Diarrhea,Fever,Parvovirus
+Limping,Shivering,Limping,Arthritis
+Fever,Sneezing,Cough,Respiratory Infection
+Loss of appetite,Aggression,Pain,Dental Disease
+Sneezing,Watery eyes,Sneezing,Flu
+Shivering,Shivering,Lethargy,Arthritis
+Itching,Ear infection,Aggression,Ear Mite Infestation
+Diarrhea,Vomiting,Weight loss,Worm Infestation
+Itching,Red eyes,Rash,Skin Infection
+Watery eyes,Sneezing,Red eyes,Eye Infection
+Red eyes,Itching,Hair loss,Skin Infection
+Diarrhea,Aggression,Itching,Ear Mite Infestation
+Itching,Weight loss,Ear infection,Ear Mite Infestation
+Rash,Itching,Nasal discharge,Skin Infection
+Excessive drooling,Loss of appetite,Aggression,Dental Disease
+Red eyes,Rash,Hair loss,Skin Infection
+Itching,Hair loss,Rash,Skin Infection
+Itching,Rash,Red eyes,Skin Infection
+Lethargy,Limping,Pain,Arthritis
+Pain,Dehydration,Fever,Parvovirus
+Itching,Nasal discharge,Ear infection,Ear Mite Infestation
+Shivering,Red eyes,Lethargy,Arthritis
+Weight loss,Vomiting,Loss of appetite,Worm Infestation
+Lethargy,Discharge,Lethargy,Eye Infection
+Anxiety,Fever,Watery eyes,Flu
+Diarrhea,Vomiting,Lethargy,Worm Infestation
+Lethargy,Shivering,Shivering,Arthritis
+Watery eyes,Fever,Lethargy,Flu
+Swelling,Watery eyes,Discharge,Eye Infection
+Limping,Lethargy,Shivering,Muscle Strain
+Hair loss,Itching,Rash,Skin Infection
+Lethargy,Sneezing,Excessive drooling,Flu
+Lethargy,Watery eyes,Discharge,Eye Infection
+Watery eyes,Lethargy,Sneezing,Flu
+Sneezing,Itching,Rash,Allergy
+Red eyes,Lethargy,Lethargy,Eye Infection
+Lethargy,Diarrhea,Vomiting,Worm Infestation
+Rash,Hair loss,Red eyes,Skin Infection
+Pain,Excessive drooling,Excessive drooling,Dental Disease
+Pain,Limping,Lethargy,Muscle Strain
+Pain,Swelling,Bruising,Leg Injury
+Diarrhea,Weight loss,Lethargy,Worm Infestation
+Loss of appetite,Dehydration,Ear infection,Food Poisoning
+Lethargy,Weight loss,Rash,Worm Infestation
+Loss of appetite,Dehydration,Diarrhea,Food Poisoning
+Limping,Lethargy,Shivering,Arthritis
+Pain,Excessive drooling,Loss of appetite,Dental Disease
+Sneezing,Rash,Watery eyes,Allergy
+Vomiting,Dehydration,Dehydration,Food Poisoning
+Sneezing,Lethargy,Cough,Flu
+Limping,Shivering,Pain,Muscle Strain
+Diarrhea,Weight loss,Weight loss,Worm Infestation
+Diarrhea,Lethargy,Vomiting,Worm Infestation
+Limping,Shivering,Limping,Arthritis
+Cough,Nasal discharge,Sneezing,Respiratory Infection
+Hair loss,Rash,Red eyes,Skin Infection
+Pain,Shivering,Lethargy,Arthritis
+Itching,Watery eyes,Bruising,Allergy
+Discharge,Lethargy,Watery eyes,Eye Infection
+Dehydration,Vomiting,Diarrhea,Parvovirus
+Ear infection,Weight loss,Shivering,Ear Mite Infestation
+Nasal discharge,Fever,Sneezing,Respiratory Infection
+Hair loss,Itching,Watery eyes,Skin Infection
+Itching,Watery eyes,Rash,Allergy
+Loss of appetite,Itching,Watery eyes,Allergy
+Sneezing,Cough,Lethargy,Flu
+Fever,Watery eyes,Lethargy,Flu
+Vomiting,Dehydration,Fever,Parvovirus
+Lethargy,Shivering,Limping,Muscle Strain
+Hair loss,Watery eyes,Lethargy,Eye Infection
+Vomiting,Diarrhea,Dehydration,Food Poisoning
+Itching,Ear infection,Aggression,Ear Mite Infestation
+Sneezing,Fever,Watery eyes,Flu
+Lethargy,Bruising,Watery eyes,Eye Infection
+Shivering,Lethargy,Limping,Muscle Strain
+Fever,Nasal discharge,Watery eyes,Flu
+Dehydration,Diarrhea,Anxiety,Parvovirus
+Red eyes,Vomiting,Diarrhea,Worm Infestation
+Pain,Shivering,Lethargy,Arthritis
+Cough,Ear infection,Nasal discharge,Respiratory Infection
+Dehydration,Vomiting,Fever,Parvovirus
+Nasal discharge,Cough,Sneezing,Respiratory Infection
+Watery eyes,Itching,Rash,Allergy
+Nasal discharge,Sneezing,Cough,Respiratory Infection
+Aggression,Loss of appetite,Excessive drooling,Dental Disease
+Lethargy,Lethargy,Shivering,Muscle Strain
+Shivering,Pain,Lethargy,Arthritis
+Ear infection,Loss of appetite,Pain,Dental Disease
+Ear infection,Aggression,Itching,Ear Mite Infestation
+Pain,Limping,Bruising,Leg Injury
+Watery eyes,Discharge,Red eyes,Eye Infection
+Loss of appetite,Aggression,Pain,Dental Disease
+Vomiting,Loss of appetite,Diarrhea,Food Poisoning
+Pain,Swelling,Limping,Leg Injury
+Hair loss,Itching,Rash,Skin Infection
+Nasal discharge,Fever,Sneezing,Respiratory Infection
+Cough,Fever,Sneezing,Flu
+Nasal discharge,Sneezing,Nasal discharge,Respiratory Infection
+Dehydration,Diarrhea,Loss of appetite,Food Poisoning
+Nasal discharge,Fever,Sneezing,Respiratory Infection
+Swelling,Limping,Pain,Leg Injury
+Ear infection,Itching,Diarrhea,Ear Mite Infestation
+Fever,Dehydration,Diarrhea,Parvovirus
+Ear infection,Itching,Aggression,Ear Mite Infestation
+Rash,Pain,Shivering,Muscle Strain
+Hair loss,Itching,Rash,Skin Infection
+Ear infection,Shivering,Aggression,Ear Mite Infestation
+Hair loss,Red eyes,Itching,Skin Infection
+Aggression,Shivering,Itching,Ear Mite Infestation
+Sneezing,Watery eyes,Rash,Allergy
+Diarrhea,Lethargy,Weight loss,Worm Infestation
+Lethargy,Discharge,Hair loss,Eye Infection
+Diarrhea,Red eyes,Loss of appetite,Food Poisoning
+Fever,Nasal discharge,Cough,Respiratory Infection
+Pain,Limping,Lethargy,Muscle Strain
+Pain,Shivering,Lethargy,Arthritis
+Fever,Diarrhea,Fever,Parvovirus
+Limping,Pain,Bruising,Leg Injury
+Pain,Swelling,Bruising,Leg Injury
+Dehydration,Fever,Vomiting,Parvovirus
+Itching,Red eyes,Excessive drooling,Skin Infection
+Itching,Rash,Sneezing,Allergy
+Cough,Weight loss,Sneezing,Respiratory Infection
+Watery eyes,Discharge,Red eyes,Eye Infection
+Weight loss,Diarrhea,Diarrhea,Worm Infestation
+Limping,Lethargy,Pain,Arthritis
+Sneezing,Fever,Nasal discharge,Respiratory Infection
+Discharge,Watery eyes,Cough,Eye Infection
+Swelling,Limping,Bruising,Leg Injury
+Nasal discharge,Sneezing,Fever,Respiratory Infection
+Bruising,Bruising,Swelling,Leg Injury
+Ear infection,Itching,Aggression,Ear Mite Infestation
+Pain,Limping,Shivering,Muscle Strain
+Itching,Aggression,Shivering,Ear Mite Infestation
+Loss of appetite,Vomiting,Dehydration,Food Poisoning
+Pain,Loss of appetite,Excessive drooling,Dental Disease
+Red eyes,Bruising,Limping,Leg Injury
+Watery eyes,Sneezing,Sneezing,Flu
+Limping,Shivering,Limping,Muscle Strain
+Shivering,Lethargy,Limping,Muscle Strain
+Watery eyes,Discharge,Red eyes,Eye Infection
+Cough,Sneezing,Fever,Flu
+Weight loss,Discharge,Lethargy,Eye Infection
+Vomiting,Dehydration,Fever,Parvovirus
+Lethargy,Cough,Fever,Flu
+Pain,Limping,Bruising,Leg Injury
+Itching,Shivering,Hair loss,Ear Mite Infestation
+Lethargy,Shivering,Pain,Muscle Strain
+Loss of appetite,Aggression,Excessive drooling,Dental Disease
+Aggression,Pain,Loss of appetite,Dental Disease
+Pain,Shivering,Limping,Muscle Strain
+Excessive drooling,Aggression,Pain,Dental Disease
+Discharge,Watery eyes,Red eyes,Eye Infection
+Shivering,Lethargy,Pain,Muscle Strain
+Limping,Shivering,Lethargy,Muscle Strain
+Pain,Shivering,Loss of appetite,Muscle Strain
+Swelling,Nasal discharge,Limping,Leg Injury
+Shivering,Red eyes,Aggression,Ear Mite Infestation
+Itching,Rash,Hair loss,Skin Infection
+Pain,Shivering,Lethargy,Muscle Strain
+Pain,Bruising,Swelling,Leg Injury
+Vomiting,Diarrhea,Weight loss,Worm Infestation
+Swelling,Shivering,Lethargy,Muscle Strain
+Pain,Limping,Shivering,Muscle Strain
+Hair loss,Hair loss,Red eyes,Skin Infection
+Hair loss,Red eyes,Itching,Skin Infection
+Pain,Loss of appetite,Excessive drooling,Dental Disease
+Anxiety,Itching,Red eyes,Skin Infection
+Pain,Swelling,Bruising,Leg Injury
+Diarrhea,Excessive drooling,Weight loss,Worm Infestation
+Diarrhea,Lethargy,Vomiting,Worm Infestation
+Rash,Itching,Rash,Allergy
+Fever,Cough,Nasal discharge,Respiratory Infection
+Swelling,Pain,Limping,Leg Injury
+Lethargy,Shivering,Shivering,Muscle Strain
+Ear infection,Rash,Sneezing,Allergy
+Itching,Fever,Rash,Allergy
+Fever,Cough,Sneezing,Respiratory Infection
+Nasal discharge,Sneezing,Fever,Respiratory Infection
+Ear infection,Vomiting,Dehydration,Food Poisoning
+Sneezing,Itching,Watery eyes,Allergy
+Itching,Sneezing,Rash,Allergy
+Fever,Hair loss,Diarrhea,Parvovirus
+Pain,Lethargy,Limping,Muscle Strain
+Diarrhea,Vomiting,Dehydration,Parvovirus
+Loss of appetite,Diarrhea,Vomiting,Food Poisoning
+Pain,Swelling,Aggression,Leg Injury
+Itching,Rash,Sneezing,Allergy
+Dehydration,Vomiting,Dehydration,Food Poisoning
+Lethargy,Pain,Lethargy,Muscle Strain
+Nasal discharge,Fever,Cough,Respiratory Infection
+Fever,Sneezing,Rash,Allergy
+Vomiting,Diarrhea,Diarrhea,Food Poisoning
+Lethargy,Excessive drooling,Sneezing,Flu
+Loss of appetite,Diarrhea,Dehydration,Food Poisoning
+Aggression,Ear infection,Itching,Ear Mite Infestation
+Fever,Cough,Watery eyes,Flu
+Vomiting,Diarrhea,Sneezing,Food Poisoning
+Watery eyes,Discharge,Lethargy,Eye Infection
+Lethargy,Diarrhea,Vomiting,Worm Infestation
+Lethargy,Lethargy,Shivering,Muscle Strain
+Fever,Lethargy,Sneezing,Flu
+Ear infection,Shivering,Ear infection,Ear Mite Infestation
+Loss of appetite,Pain,Loss of appetite,Dental Disease
+Vomiting,Lethargy,Diarrhea,Worm Infestation
+Loss of appetite,Aggression,Excessive drooling,Dental Disease
+Pain,Aggression,Loss of appetite,Dental Disease
+Red eyes,Discharge,Watery eyes,Eye Infection
+Ear infection,Ear infection,Itching,Ear Mite Infestation
+Watery eyes,Lethargy,Discharge,Eye Infection
+Lethargy,Diarrhea,Vomiting,Worm Infestation
+Pain,Lethargy,Lethargy,Muscle Strain
+Discharge,Lethargy,Watery eyes,Eye Infection
+Cough,Limping,Sneezing,Respiratory Infection
+Bruising,Limping,Swelling,Leg Injury
+Loss of appetite,Vomiting,Diarrhea,Food Poisoning
+Sneezing,Itching,Watery eyes,Allergy
+Lethargy,Limping,Pain,Arthritis
+Shivering,Limping,Lethargy,Arthritis
+Weight loss,Watery eyes,Vomiting,Worm Infestation
+Dehydration,Vomiting,Fever,Parvovirus
+Fever,Nasal discharge,Nasal discharge,Respiratory Infection
+Red eyes,Watery eyes,Aggression,Eye Infection
+Dehydration,Vomiting,Diarrhea,Parvovirus
+Swelling,Bruising,Limping,Leg Injury
+Itching,Sneezing,Watery eyes,Allergy
+Shivering,Lethargy,Red eyes,Arthritis
+Cough,Sneezing,Watery eyes,Flu
+Aggression,Loss of appetite,Pain,Dental Disease
+Watery eyes,Itching,Rash,Allergy
+Vomiting,Loss of appetite,Diarrhea,Food Poisoning
+Diarrhea,Diarrhea,Fever,Parvovirus
+Pain,Bruising,Limping,Leg Injury
+Bruising,Limping,Swelling,Leg Injury
+Nasal discharge,Red eyes,Hair loss,Skin Infection
+Loss of appetite,Excessive drooling,Pain,Dental Disease
+Sneezing,Lethargy,Hair loss,Flu
+Sneezing,Nasal discharge,Watery eyes,Respiratory Infection
+Cough,Sneezing,Fever,Flu
+Discharge,Lethargy,Weight loss,Eye Infection
+Loss of appetite,Pain,Aggression,Dental Disease
+Diarrhea,Vomiting,Weight loss,Worm Infestation
+Shivering,Ear infection,Itching,Ear Mite Infestation
+Loss of appetite,Pain,Anxiety,Dental Disease
+Rash,Sneezing,Itching,Allergy
+Itching,Hair loss,Rash,Skin Infection
+Pain,Shivering,Limping,Arthritis
+Watery eyes,Lethargy,Cough,Flu
+Sneezing,Lethargy,Fever,Flu
+Lethargy,Shivering,Shivering,Arthritis
+Fever,Dehydration,Fever,Parvovirus
+Lethargy,Cough,Watery eyes,Flu
+Loss of appetite,Vomiting,Dehydration,Food Poisoning
+Red eyes,Rash,Itching,Skin Infection
+Weight loss,Diarrhea,Lethargy,Worm Infestation
+Lethargy,Lethargy,Weight loss,Worm Infestation
+Excessive drooling,Aggression,Pain,Dental Disease
+Loss of appetite,Excessive drooling,Diarrhea,Dental Disease
+Aggression,Itching,Shivering,Ear Mite Infestation
+Ear infection,Itching,Itching,Ear Mite Infestation
+Excessive drooling,Lethargy,Watery eyes,Flu
+Lethargy,Limping,Pain,Muscle Strain
+Itching,Rash,Red eyes,Skin Infection
+Diarrhea,Loss of appetite,Vomiting,Food Poisoning
+Pain,Limping,Shivering,Muscle Strain
+Itching,Loss of appetite,Aggression,Dental Disease
+Itching,Sneezing,Rash,Allergy
+Fever,Nasal discharge,Sneezing,Respiratory Infection
+Vomiting,Diarrhea,Dehydration,Parvovirus
+Diarrhea,Nasal discharge,Sneezing,Respiratory Infection
+Pain,Shivering,Shivering,Muscle Strain
+Dehydration,Fever,Cough,Parvovirus
+Loss of appetite,Pain,Excessive drooling,Dental Disease
+Watery eyes,Red eyes,Discharge,Eye Infection
+Pain,Aggression,Loss of appetite,Dental Disease
+Lethargy,Vomiting,Vomiting,Worm Infestation
+Pain,Aggression,Aggression,Dental Disease
+Dehydration,Dehydration,Fever,Parvovirus
+Loss of appetite,Pain,Excessive drooling,Dental Disease
+Vomiting,Diarrhea,Weight loss,Worm Infestation
+Excessive drooling,Ear infection,Aggression,Dental Disease
+Ear infection,Shivering,Aggression,Ear Mite Infestation
+Excessive drooling,Aggression,Pain,Dental Disease
+Watery eyes,Itching,Rash,Allergy
+Pain,Limping,Shivering,Arthritis
+Pain,Shivering,Limping,Muscle Strain
+Hair loss,Rash,Itching,Skin Infection
+Pain,Swelling,Limping,Leg Injury
+Rash,Itching,Rash,Skin Infection
+Discharge,Red eyes,Rash,Eye Infection
+Loss of appetite,Lethargy,Excessive drooling,Dental Disease
+Lethargy,Bruising,Shivering,Muscle Strain
+Vomiting,Vomiting,Loss of appetite,Food Poisoning
+Pain,Limping,Lethargy,Muscle Strain
+Dehydration,Vomiting,Diarrhea,Parvovirus
+Dehydration,Lethargy,Red eyes,Eye Infection
+Dehydration,Bruising,Fever,Parvovirus
+Lethargy,Vomiting,Dehydration,Parvovirus
+Red eyes,Discharge,Watery eyes,Eye Infection
+Lethargy,Shivering,Limping,Muscle Strain
+Dehydration,Vomiting,Loss of appetite,Food Poisoning
+Ear infection,Itching,Itching,Ear Mite Infestation
+Itching,Red eyes,Hair loss,Skin Infection
+Shivering,Limping,Lethargy,Muscle Strain
+Limping,Weight loss,Lethargy,Muscle Strain
+Red eyes,Lethargy,Watery eyes,Eye Infection
+Loss of appetite,Vomiting,Dehydration,Food Poisoning
+Vomiting,Fever,Dehydration,Parvovirus
+Watery eyes,Discharge,Swelling,Eye Infection
+Diarrhea,Fever,Dehydration,Parvovirus
+Aggression,Diarrhea,Lethargy,Worm Infestation
+Diarrhea,Limping,Weight loss,Worm Infestation
+Diarrhea,Fever,Dehydration,Parvovirus
+Pain,Limping,Swelling,Leg Injury
+Itching,Red eyes,Hair loss,Skin Infection
+Lethargy,Shivering,Pain,Muscle Strain
+Limping,Pain,Shivering,Arthritis
+Nasal discharge,Fever,Nasal discharge,Respiratory Infection
+Weight loss,Lethargy,Diarrhea,Worm Infestation
+Itching,Itching,Sneezing,Allergy
+Hair loss,Itching,Red eyes,Skin Infection
+Shivering,Pain,Lethargy,Muscle Strain
+Lethargy,Weight loss,Vomiting,Worm Infestation
+Rash,Red eyes,Hair loss,Skin Infection
+Fever,Sneezing,Nasal discharge,Respiratory Infection
+Diarrhea,Vomiting,Weight loss,Worm Infestation
+Rash,Weight loss,Itching,Skin Infection
+Itching,Ear infection,Fever,Ear Mite Infestation
+Itching,Hair loss,Red eyes,Skin Infection
+Lethargy,Fever,Watery eyes,Flu
+Limping,Shivering,Limping,Muscle Strain
+Aggression,Ear infection,Shivering,Ear Mite Infestation
+Discharge,Watery eyes,Watery eyes,Eye Infection
+Dehydration,Loss of appetite,Diarrhea,Food Poisoning
+Fever,Vomiting,Dehydration,Parvovirus
+Dehydration,Diarrhea,Vomiting,Food Poisoning
+Shivering,Ear infection,Aggression,Ear Mite Infestation
+Limping,Lethargy,Shivering,Muscle Strain
+Vomiting,Diarrhea,Dehydration,Food Poisoning
+Lethargy,Red eyes,Watery eyes,Eye Infection
+Pain,Bruising,Swelling,Leg Injury
+Cough,Diarrhea,Dehydration,Parvovirus
+Hair loss,Hair loss,Itching,Skin Infection
+Nasal discharge,Dehydration,Fever,Respiratory Infection
+Red eyes,Rash,Itching,Skin Infection
+Rash,Itching,Red eyes,Skin Infection
+Itching,Watery eyes,Watery eyes,Allergy
+Limping,Lethargy,Pain,Muscle Strain
+Limping,Pain,Swelling,Leg Injury
+Itching,Watery eyes,Rash,Allergy
+Vomiting,Diarrhea,Dehydration,Parvovirus
+Diarrhea,Dehydration,Itching,Parvovirus
+Aggression,Pain,Excessive drooling,Dental Disease
+Itching,Ear infection,Shivering,Ear Mite Infestation
+Itching,Ear infection,Aggression,Ear Mite Infestation
+Loss of appetite,Aggression,Excessive drooling,Dental Disease
+Vomiting,Lethargy,Hair loss,Worm Infestation
+Pain,Swelling,Limping,Muscle Strain
+Watery eyes,Cough,Watery eyes,Flu
+Cough,Nasal discharge,Fever,Respiratory Infection
+Swelling,Pain,Pain,Leg Injury
+Red eyes,Weight loss,Lethargy,Eye Infection
+Sneezing,Watery eyes,Rash,Allergy
+Pain,Lethargy,Bruising,Muscle Strain
+Rash,Ear infection,Sneezing,Allergy
+Diarrhea,Dehydration,Vomiting,Food Poisoning
+Fever,Limping,Sneezing,Respiratory Infection
+Weight loss,Weight loss,Vomiting,Worm Infestation
+Diarrhea,Weight loss,Lethargy,Worm Infestation
+Pain,Shivering,Lethargy,Muscle Strain
+Red eyes,Lethargy,Red eyes,Eye Infection
+Loss of appetite,Aggression,Pain,Dental Disease
+Weight loss,Pain,Diarrhea,Worm Infestation
+Sneezing,Pain,Rash,Allergy
+Anxiety,Nasal discharge,Sneezing,Respiratory Infection
+Discharge,Watery eyes,Lethargy,Eye Infection
+Pain,Shivering,Lethargy,Muscle Strain
+Loss of appetite,Excessive drooling,Aggression,Dental Disease
+Pain,Lethargy,Limping,Muscle Strain
+Cough,Fever,Nasal discharge,Respiratory Infection
+Discharge,Lethargy,Lethargy,Eye Infection
+Weight loss,Vomiting,Diarrhea,Worm Infestation
+Red eyes,Lethargy,Watery eyes,Eye Infection
+Watery eyes,Lethargy,Red eyes,Eye Infection
+Discharge,Lethargy,Watery eyes,Eye Infection
+Lethargy,Hair loss,Itching,Skin Infection
+Rash,Itching,Watery eyes,Allergy
+Diarrhea,Lethargy,Vomiting,Worm Infestation
+Sneezing,Fever,Nasal discharge,Respiratory Infection
+Red eyes,Swelling,Pain,Leg Injury
+Aggression,Shivering,Aggression,Ear Mite Infestation
+Rash,Rash,Itching,Skin Infection
+Limping,Shivering,Lethargy,Muscle Strain
+Fever,Nasal discharge,Nasal discharge,Respiratory Infection
+Rash,Sneezing,Watery eyes,Allergy
+Rash,Shivering,Aggression,Ear Mite Infestation
+Watery eyes,Red eyes,Discharge,Eye Infection
+Sneezing,Rash,Watery eyes,Allergy
+Loss of appetite,Pain,Excessive drooling,Dental Disease
+Pain,Excessive drooling,Aggression,Dental Disease
+Red eyes,Rash,Hair loss,Skin Infection
+Vomiting,Loss of appetite,Dehydration,Food Poisoning
+Weight loss,Diarrhea,Vomiting,Worm Infestation
+Lethargy,Limping,Pain,Arthritis
+Nasal discharge,Fever,Cough,Respiratory Infection
+Anxiety,Pain,Bruising,Leg Injury
+Loss of appetite,Excessive drooling,Pain,Dental Disease
+Hair loss,Rash,Red eyes,Skin Infection
+Hair loss,Rash,Itching,Allergy
+Itching,Red eyes,Shivering,Skin Infection
+Diarrhea,Lethargy,Vomiting,Worm Infestation
+Sneezing,Dehydration,Cough,Respiratory Infection
+Sneezing,Cough,Watery eyes,Flu
+Lethargy,Diarrhea,Vomiting,Worm Infestation
+Itching,Itching,Red eyes,Skin Infection
+Shivering,Sneezing,Rash,Allergy
+Bruising,Swelling,Pain,Leg Injury
+Bruising,Swelling,Loss of appetite,Leg Injury
+Dehydration,Itching,Shivering,Ear Mite Infestation
+Bruising,Pain,Swelling,Leg Injury
+Lethargy,Cough,Fever,Flu
+Rash,Watery eyes,Sneezing,Allergy
+Diarrhea,Fever,Vomiting,Parvovirus
+Diarrhea,Bruising,Limping,Leg Injury
+Pain,Swelling,Limping,Leg Injury
+Red eyes,Itching,Hair loss,Skin Infection
+Vomiting,Weight loss,Weight loss,Worm Infestation
+Sneezing,Lethargy,Red eyes,Eye Infection
+Aggression,Excessive drooling,Pain,Dental Disease
+Hair loss,Itching,Rash,Skin Infection
+Limping,Shivering,Lethargy,Arthritis
+Vomiting,Loss of appetite,Dehydration,Food Poisoning
+Sneezing,Fever,Cough,Flu
+Lethargy,Limping,Shivering,Arthritis
+Dehydration,Vomiting,Diarrhea,Parvovirus
+Rash,Itching,Sneezing,Allergy
+Limping,Pain,Swelling,Leg Injury
+Weight loss,Vomiting,Lethargy,Worm Infestation
+Pain,Swelling,Limping,Leg Injury
+Fever,Cough,Sneezing,Respiratory Infection
+Dehydration,Vomiting,Diarrhea,Parvovirus
